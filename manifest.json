@@ -159,11 +159,11 @@
                                                                       "standalone"
                                                                   ]
                                                     },
-                                        "preview":  "https://github.com/funniiboi/funnii-downloads/releases/latest/download/funniiDelay.png",
+                                        "preview":  "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay.png",
                                         "content":  {
                                                         "mac":  {
-                                                                    "url":  "https://github.com/funniiboi/funnii-downloads/releases/latest/download/funniiDelay-mac.zip",
-                                                                    "sha256":  "8c473153339a09bda37db319a04c35d43e4a6986ae86804b038101760325c6b4"
+                                                                    "url":  "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-mac.zip",
+                                                                    "sha256":  "f4943226649ffb8131678a3f8143be86563d6dbc7ddbdfa25ef6d9438d7b1188"
                                                                 },
                                                         "windows":  {
                                                                         "url":  "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-windows.zip",

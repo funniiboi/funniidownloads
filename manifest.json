@@ -762,7 +762,10 @@
                                                     },
                                         "preview":  "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiShare.png",
                                         "content":  {
-
+                                                        "windows":  {
+                                                                        "url":  "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiShare-windows.zip",
+                                                                        "sha256":  "59c277a564e2c3a038287014134adc21d8d693878e6be3ff379c20d1775fc9ea"
+                                                                    }
                                                     }
                                     }
                 }

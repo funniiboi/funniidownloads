@@ -1,4 +1,4 @@
-{
+﻿{
     "version":  "1.0.0",
     "plugins":  {
                     "funniiCalculator":  {
@@ -513,7 +513,7 @@
                                     },
                     "funniiPitch":  {
                                         "displayName":  "funniiPitch",
-                                        "description":  "A phase-vocoder pitch shifter with ±12 semitone integer steps.",
+                                        "description":  "A phase-vocoder pitch shifter with Â±12 semitone integer steps.",
                                         "category":  "Release",
                                         "formats":  {
                                                         "mac":  [
@@ -747,6 +747,22 @@
                                                                         "url":  "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-windows.zip",
                                                                         "sha256":  "05b0dfe0cdc49284353c109b5bde956d3bd6c7bc176559d0a5c10521d0f7af4c"
                                                                     }
+                                                    }
+                                    },
+                    "funniiShare":  {
+                                        "displayName":  "funniiShare",
+                                        "description":  "Screen-shares your DAW\u0027s audio into Discord, Zoom, and Meet even when it\u0027s routed to a dedicated interface instead of your system\u0027s default output.",
+                                        "category":  "Release",
+                                        "formats":  {
+                                                        "windows":  [
+                                                                        "vst3",
+                                                                        "clap",
+                                                                        "standalone"
+                                                                    ]
+                                                    },
+                                        "preview":  "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiShare.png",
+                                        "content":  {
+
                                                     }
                                     }
                 }

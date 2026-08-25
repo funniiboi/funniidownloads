@@ -768,6 +768,36 @@
         },
         "mac": {}
       }
+    },
+    "funniiTune": {
+      "displayName": "funniiTune",
+      "description": "Real-time monophonic pitch correction using the same cycle-insert/cycle-delete technique as classic hardware pitch correctors, with 0.5ms latency.",
+      "category": "Release",
+      "formats": {
+        "mac": [
+          "vst3",
+          "au",
+          "clap",
+          "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
+        ]
+      },
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune.png",
+      "content": {
+        "mac": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-mac.zip",
+          "sha256": "5b12239620406aed6f30a907e7959ea32cd217d7399f75fe0b3eac9659210e9d"
+        }
+      }
     }
   }
 }

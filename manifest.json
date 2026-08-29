@@ -28,6 +28,10 @@
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-mac.zip",
           "sha256": "a13f8fec717379f2709d5843ad8a3faad4cbf45c5bc2fb08299daf77ac9f3dd1"
+        },
+        "windows": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-windows.zip",
+          "sha256": "d53244dc597021eb4ae1b36ebf70c2b7c2c763beea254d175d84c99eda1afd48"
         }
       }
     },
@@ -61,7 +65,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-windows.zip",
-          "sha256": "90a5cf4fa4c59dc959818e3643bc4ade0aa933bd421e799a6cc046a8f3134305"
+          "sha256": "8ac72ff45583afef14c76c51e519b7dda40e5b6960eafb365cb289b9e33f1585"
         }
       }
     },
@@ -95,7 +99,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSynth-windows.zip",
-          "sha256": "aae7c2d5df263add9f6d34143a42470c9f1edbae8b4d19f8980fb030caa2d287"
+          "sha256": "ba2b150c0a20d4ff6ac32030d357be7c7b73df4aa2d42abd3c2c2b76d15896c4"
         }
       }
     },
@@ -129,7 +133,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVerb-windows.zip",
-          "sha256": "6de59b072cd733a91defbe920f0006b62d789eefcccc6ce758e71728bc3cfc78"
+          "sha256": "eee1788199eb94d0140442cba22fa30ef84978929f90102fa25b63d0f990b0d6"
         }
       }
     },
@@ -163,7 +167,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGlue-windows.zip",
-          "sha256": "cd4c3cbad36bea650e457b14c0a1e615158ab45ba9a6d587d4ef44b9cfac8337"
+          "sha256": "e3bd58472ca9bdc5f00d5b3800845cf6be3b62e8a4341ebd126596d43d8777dc"
         }
       }
     },
@@ -197,7 +201,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGoodizer-windows.zip",
-          "sha256": "98e0a79e002e70f44e9279f5832758619c73b4e8d5c6fdc28da28b87944024a1"
+          "sha256": "61bee685ba33fc2510f30edc682db52dfceba7f19bdae1246eec8841d16f4a14"
         }
       }
     },
@@ -231,7 +235,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-windows.zip",
-          "sha256": "5feba749a019420bd73fdf7a357e2a4f0b80edbb604840b5186619f453adaf6a"
+          "sha256": "466aa55cd9fffae9c0ed95c35086e3469cd3b1432d4da3b9349a4a986b0fe877"
         }
       }
     },
@@ -265,7 +269,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiEqualizer-windows.zip",
-          "sha256": "48dfdf08adeaa5f64770faae9ae22e081af3ada7f248f2716cf757426564de5a"
+          "sha256": "00eada8f01c9e362d99ef349808d06c6d0141d402dad5122e585bc30eed3ee5b"
         }
       }
     },
@@ -299,7 +303,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-windows.zip",
-          "sha256": "05b0dfe0cdc49284353c109b5bde956d3bd6c7bc176559d0a5c10521d0f7af4c"
+          "sha256": "711409e7b1514862dcb5b9755fb1b2f8011feb2304f382feab3b00f5c2a6c53b"
         }
       }
     },
@@ -333,7 +337,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiCalculator-windows.zip",
-          "sha256": "715b9a39608a0dbda6da983740fc10c103681998b5abab5a90aabed3c73e5d18"
+          "sha256": "1874e407301643f7b4d995bfdf38e8bb63431ad65bff2f674164ae9270f7ff3b"
         }
       }
     },
@@ -367,7 +371,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChoir-windows.zip",
-          "sha256": "580359a7f13a2877f09963985315b7d15a8150e7ac061af8d8295aebf30f0927"
+          "sha256": "729f79adf520560c5ccfee771a5631cfc6779fb63491cb201d6543d04ae311a0"
         }
       }
     },
@@ -401,7 +405,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiClipper-windows.zip",
-          "sha256": "752595e584f141cbd3187d958a2e2a8113d22dc33784a743a7ff9501d681b9a2"
+          "sha256": "2b79baa3a99e72cf9eb6f3908e2b8c163667a196adf13d7ff2f2f2b88c1abebd"
         }
       }
     },
@@ -435,7 +439,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiCrush-windows.zip",
-          "sha256": "2eefc872e2467580ee6c92676bfd808c42279753d7fdd1ae784672baeeba0a2d"
+          "sha256": "9a7cb15e22e61b2d98604ef9894246fa74ffda3061af808acfa6289815c81ada"
         }
       }
     },
@@ -469,7 +473,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDoubler-windows.zip",
-          "sha256": "8328c66b19c607300d68ece6d2c7e3dfced7559cd8c69ee4deac0e131502170c"
+          "sha256": "9582870d3a610a105a9450ac2c13c11cdf67e7450dc0a5a94ab61689a0f88ee1"
         }
       }
     },
@@ -503,7 +507,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFormant-windows.zip",
-          "sha256": "37314232519333f0ee795ba2c855581cecd3bdac8958398240aeb6aadd38f11b"
+          "sha256": "20c62908cc036f14f0af8d885b55caa70abb5c3ac813820bb807504c3f9ccbc4"
         }
       }
     },
@@ -537,7 +541,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGate-windows.zip",
-          "sha256": "095e707633417d00eafbffe614d3b28ec21bc90c846031f1f5505c1a26405445"
+          "sha256": "f00c3a3fe0c9b4aa0cc17442a2d57f7b01b136f5d735e69cd1d3b9f323227f32"
         }
       }
     },
@@ -571,7 +575,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiHaas-windows.zip",
-          "sha256": "5fa298d3c6991efcb523ecc35da9e14c184bf4c89ab1538c6af16bdeabd8c31a"
+          "sha256": "46f0ca22c20aa49e66b80c55fc2ed4e8cff852b086bd75bfa65519ecdc4e8781"
         }
       }
     },
@@ -605,7 +609,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPan-windows.zip",
-          "sha256": "4c715f2dc17871b75495aa3e91bffa739bd95e60ad53f13094df29a305e4f8df"
+          "sha256": "444fc0d84ec6915edfb1087c927ee9b3042c2f4fe68a330edb00ce7b37c6b3b9"
         }
       }
     },
@@ -639,13 +643,13 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPhase-windows.zip",
-          "sha256": "f54f5ac5a43a86bd4f81d036206aa909756f6f8dc5728efc53e970577be595b5"
+          "sha256": "90d6b8b1c7b2f73312f45893dfc3169fdfabcc91a2c073becab80b8aea80d916"
         }
       }
     },
     "funniiPitch": {
       "displayName": "funniiPitch",
-      "description": "A phase-vocoder pitch shifter with \u00c2\u00b112 semitone integer steps.",
+      "description": "A phase-vocoder pitch shifter with ±12 semitone integer steps.",
       "category": "Release",
       "formats": {
         "mac": [
@@ -673,7 +677,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-windows.zip",
-          "sha256": "c852a2182ce2e69e52a8844c034044ba4a63a7cc0644b240bc3fe81119fa5964"
+          "sha256": "92e3bb44dacf4c3371f340aae5ff175b55a32a8708622d47f54ee8dd92deafe1"
         }
       }
     },
@@ -707,7 +711,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiRing-windows.zip",
-          "sha256": "d49085825226ba4d8cafa054cfd962132a7d755fe1faad964d7584d2b511d6b8"
+          "sha256": "e11ae89eb207cbd1de939007f960ec34d97df94bcb334a2a11efc2514d2ab325"
         }
       }
     },
@@ -726,7 +730,7 @@
       "content": {
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiShare-windows.zip",
-          "sha256": "c33769ad76333ec17868a35221da303e0e9d93af682d36b760f6a8d855a60a94"
+          "sha256": "70a8928809f826edad13aad1a2a08132cdf60458124fd2321f57bee9330ec175"
         },
         "mac": {}
       }
@@ -761,7 +765,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTape-windows.zip",
-          "sha256": "cc157235a8f920b5e691dd4a1fee75cb051c2a66143c4d9516572b0afde18a91"
+          "sha256": "40174a76b33e887ffcd55ef8f09194dbc6f415ae88dd0e41f416b339e9f226c3"
         }
       }
     },
@@ -795,7 +799,7 @@
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVolume-windows.zip",
-          "sha256": "9b022683b13b17494165e712aac77e8dd5d08829f940233dbd39997287e93a9d"
+          "sha256": "33b09cfba59ab02969c160a83ba5c2e785c265001606ac2f5acb9aafbc31217c"
         }
       }
     }

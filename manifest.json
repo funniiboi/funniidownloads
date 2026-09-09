@@ -649,7 +649,7 @@
     },
     "funniiPitch": {
       "displayName": "funniiPitch",
-      "description": "A phase-vocoder pitch shifter with ±12 semitone integer steps.",
+      "description": "A phase-vocoder pitch shifter with \u00b112 semitone integer steps.",
       "category": "Release",
       "formats": {
         "mac": [
@@ -800,6 +800,36 @@
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVolume-windows.zip",
           "sha256": "9aec58d699c953a3ffbf13298633830669351d82bda2e3fa46d6c04e2d0979e6"
+        }
+      }
+    },
+    "funniiTuner": {
+      "displayName": "funniiTuner",
+      "description": "A real-time chromatic tuner using YIN pitch detection, with sub-cent accuracy and an adjustable A4 reference pitch.",
+      "category": "Release",
+      "formats": {
+        "mac": [
+          "vst3",
+          "au",
+          "clap",
+          "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
+        ]
+      },
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTuner.png",
+      "content": {
+        "mac": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTuner-mac.zip",
+          "sha256": "2dfdc104b02aa62338bcdd4158b405ec9798a6003562e67dd956d731dfed563b"
         }
       }
     }

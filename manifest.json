@@ -833,5 +833,11 @@
         }
       }
     }
+  },
+  "downloadAll": {
+    "mac": {
+      "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
+      "sha256": "1881dddda6dfa8412e51b2a160f8e566edd7a61a448467e6e9dbebc62f08edc0"
+    }
   }
 }

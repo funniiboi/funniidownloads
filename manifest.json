@@ -941,7 +941,7 @@
   "downloadAll": {
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "1881dddda6dfa8412e51b2a160f8e566edd7a61a448467e6e9dbebc62f08edc0"
+      "sha256": "5c4d40aaf4edf62741f21107ffc7d8e534fa4a83b095f3471d362e0ed8a21b1f"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",

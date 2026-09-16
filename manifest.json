@@ -103,7 +103,7 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSynth-mac.zip",
-          "sha256": "dd49405bcbaa62f7e853b9a9807c9388c94546ae2d0f28406996b46c0efca85e"
+          "sha256": "f230f33fcaf0b4c1e104743a49994a2cc95d6ea837672d0951e5d2e6ff061d63"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSynth-windows.zip",
@@ -941,7 +941,7 @@
   "downloadAll": {
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "355600ea741a28501b45fdc2611d1bb93ce9798701bbdc5edf58e81e845562f3"
+      "sha256": "959af910d9e474bc71d5676117993469d40922bf49667318849a24d85bd9cc61"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",

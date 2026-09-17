@@ -673,7 +673,7 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPan-mac.zip",
-          "sha256": "eb20b027a3597d8f273b5c5bf77329938d0dc417f327de6b85db229356964d16"
+          "sha256": "494d491d17773e734c42bc70089446ad1c516474549b26299b6a6e562adafc0c"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPan-windows.zip",
@@ -941,7 +941,7 @@
   "downloadAll": {
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "959af910d9e474bc71d5676117993469d40922bf49667318849a24d85bd9cc61"
+      "sha256": "3ad68f10db8625d2a001786fb253176c52039f6c63cd38f66c489c1fb586fe75"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",

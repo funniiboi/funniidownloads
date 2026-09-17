@@ -381,8 +381,8 @@
         }
       }
     },
-    "funniiChoir": {
-      "displayName": "funniiChoir",
+    "funniiChorus": {
+      "displayName": "funniiChorus",
       "description": "A stacked-flanger ensemble that turns a single voice into a chorus of modulated resonant delay lines.",
       "category": "Release",
       "formats": {
@@ -391,31 +391,13 @@
           "au",
           "clap",
           "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
         ]
       },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChoir.png",
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChorus.png",
       "content": {
         "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChoir-mac.zip",
-          "sha256": "5d7b79f35af426af886c8cde153a1c2885b7c19c63e2a68301e4091be87e4092"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChoir-windows.zip",
-          "sha256": "b03bb4ff2483fe9f86d19218daab656f59e0f6c1a2dbea6401a89858a8690b8c"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChoir-linux.zip",
-          "sha256": "7a1e2b4dd1a337cad8a0308f8730a9c743180306b4083d7bb5fd4a6e7da8e5b9"
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChorus-mac.zip",
+          "sha256": "506648f8a1027c2b432a4689d63a563303b95a99e28c0b1b35b159b111b9278d"
         }
       }
     },
@@ -685,9 +667,9 @@
         }
       }
     },
-    "funniiPhase": {
-      "displayName": "funniiPhase",
-      "description": "Cascades up to 50 all-pass filters in series to disperse phase around a chosen frequency.",
+    "funniiBite": {
+      "displayName": "funniiBite",
+      "description": "Cascades up to 50 all-pass filters in series to disperse phase around a chosen frequency, giving transients a sharper, harder-hitting edge.",
       "category": "Release",
       "formats": {
         "mac": [
@@ -695,31 +677,13 @@
           "au",
           "clap",
           "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
         ]
       },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPhase.png",
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite.png",
       "content": {
         "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPhase-mac.zip",
-          "sha256": "c971f7ce274a12ec79f6b97270d17b6adf910f7040690c2020fb6cf684a4d8b7"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPhase-windows.zip",
-          "sha256": "edada7b3380df29a82e9cafdcc4324fc78eb3f359d9310f4327bc49e99f20bb0"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPhase-linux.zip",
-          "sha256": "88ad6218f3d5df4ca26944d03f529db48e6155f66191ce0c3faf921ad0dfc6a0"
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-mac.zip",
+          "sha256": "8f66d7660511a9a3309bc4b59f525310059eac0e6144409301018051ef26e1ea"
         }
       }
     },
@@ -823,8 +787,8 @@
         }
       }
     },
-    "funniiTape": {
-      "displayName": "funniiTape",
+    "funniiStop": {
+      "displayName": "funniiStop",
       "description": "A tape-stop/tape-start effect that decelerates and re-accelerates the signal like a tape motor.",
       "category": "Release",
       "formats": {
@@ -833,31 +797,13 @@
           "au",
           "clap",
           "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
         ]
       },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTape.png",
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop.png",
       "content": {
         "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTape-mac.zip",
-          "sha256": "b277bed2a1e455d6a6180f14cdf7896af9eb928121dbbfebc89611cbe66e0fec"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTape-windows.zip",
-          "sha256": "0f212645f0a419cfe57e7c1cc4255c8b2676e5941cb223f6293f781856259430"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTape-linux.zip",
-          "sha256": "af441b240151f7b9740bd532f9a7bdb31b543f1aaabaa9ddf2e5d7cc3b928b6a"
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-mac.zip",
+          "sha256": "38acc1bf705fadb025111c1e3836daed3d2fb8ff48e6a6c30f81f36048df23cf"
         }
       }
     },
@@ -936,12 +882,32 @@
           "sha256": "ae956627bff040c8a70cfa900bdd390cd9fb74326d82488ee088533615fb5f90"
         }
       }
+    },
+    "funniiSculpt": {
+      "displayName": "funniiSculpt",
+      "description": "A transient shaper with ATTACK, SUSTAIN, and PUMP controls plus adjustable Speed and a 0dB output clip.",
+      "category": "Release",
+      "formats": {
+        "mac": [
+          "vst3",
+          "au",
+          "clap",
+          "standalone"
+        ]
+      },
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSculpt.png",
+      "content": {
+        "mac": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSculpt-mac.zip",
+          "sha256": "91c8b69921264119e04e940340538f66eb4dea3fe3fee6911a42c8c8180cdee9"
+        }
+      }
     }
   },
   "downloadAll": {
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "1f5081f1cc5cf664d0085a5a5421bb79ce43fb082bc9957528f70d8ab3abc2f7"
+      "sha256": "c2f39d84bf4c9d0365bb2bf28af1dc389c3583a50038962d699aa470bf102385"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",

@@ -983,11 +983,11 @@
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "ded6b5b051c042838662bbaf3c33692d751eb7e074e6c708b4bd86a63653388d"
+      "sha256": "76afa6772fabf2672a5cdb05cbd72a1e79dafcbe0ea8155d7828f153f5484882"
     },
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "ccdbee7523222cd83f06f20173b3d0c1d21d049eebe8a50ea235a91f90bcad5d"
+      "sha256": "c907533036f09719614ab6e9ac438dfab4b42936376d53b87c00a1ba6bb29b05"
     }
   }
 }

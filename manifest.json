@@ -391,6 +391,16 @@
           "au",
           "clap",
           "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
         ]
       },
       "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChorus.png",
@@ -398,6 +408,14 @@
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChorus-mac.zip",
           "sha256": "506648f8a1027c2b432a4689d63a563303b95a99e28c0b1b35b159b111b9278d"
+        },
+        "windows": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChorus-windows.zip",
+          "sha256": "efcd2ef929f29b0315b418d86ff905bb7c7560eedfa732bdde3cb338da339c1b"
+        },
+        "linux": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChorus-linux.zip",
+          "sha256": "41c29281d45ac6ceff39dd6397426f7fb80425062bfe3d4c53057935e2a1ed20"
         }
       }
     },
@@ -677,6 +695,16 @@
           "au",
           "clap",
           "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
         ]
       },
       "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite.png",
@@ -684,6 +712,14 @@
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-mac.zip",
           "sha256": "8f66d7660511a9a3309bc4b59f525310059eac0e6144409301018051ef26e1ea"
+        },
+        "windows": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-windows.zip",
+          "sha256": "ec8946a0a3fd86766bb107c07647c63155f05b975fe6d2d231794e4f70d909fd"
+        },
+        "linux": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-linux.zip",
+          "sha256": "962f9c8f6168eea2d3294eebb57a53ab805f80c48b785b8b6ac002e5ce75cedf"
         }
       }
     },
@@ -797,6 +833,16 @@
           "au",
           "clap",
           "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
         ]
       },
       "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop.png",
@@ -804,6 +850,14 @@
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-mac.zip",
           "sha256": "38acc1bf705fadb025111c1e3836daed3d2fb8ff48e6a6c30f81f36048df23cf"
+        },
+        "windows": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-windows.zip",
+          "sha256": "a72e75b61640cd21fd7c760d5d67de30c17a12ade082db6f539f1df0b022c92c"
+        },
+        "linux": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-linux.zip",
+          "sha256": "926e78820df22a3b5866ae1b244429075bbde04bca0de987f66afbbeb7231e3d"
         }
       }
     },
@@ -893,6 +947,16 @@
           "au",
           "clap",
           "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
         ]
       },
       "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSculpt.png",
@@ -900,6 +964,14 @@
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSculpt-mac.zip",
           "sha256": "91c8b69921264119e04e940340538f66eb4dea3fe3fee6911a42c8c8180cdee9"
+        },
+        "windows": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSculpt-windows.zip",
+          "sha256": "4bbf8dd7beddd618e88f306ec8892889e383de429f300e2eb1f0e5e7053eb60e"
+        },
+        "linux": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSculpt-linux.zip",
+          "sha256": "a6b27a66cb0799298267bfb7c6e8e8606290774a21c0d3c5bd64ea18eacd33b1"
         }
       }
     }
@@ -911,11 +983,11 @@
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "de060222ed911802ca834dd566177269cb21cc3401ff1b1a928dcbbcb2b5c2e6"
+      "sha256": "ded6b5b051c042838662bbaf3c33692d751eb7e074e6c708b4bd86a63653388d"
     },
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "0d76af408db1d54cd94f72f82b292824cf3b02434378eea5b56262949c25d117"
+      "sha256": "ccdbee7523222cd83f06f20173b3d0c1d21d049eebe8a50ea235a91f90bcad5d"
     }
   }
 }

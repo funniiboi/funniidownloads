@@ -407,7 +407,7 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChorus-mac.zip",
-          "sha256": "506648f8a1027c2b432a4689d63a563303b95a99e28c0b1b35b159b111b9278d"
+          "sha256": "5cccde1626500dd3e0c4e62621a40d90158c6f926bb85b959a6409429ed9f54e"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChorus-windows.zip",
@@ -711,7 +711,7 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-mac.zip",
-          "sha256": "8f66d7660511a9a3309bc4b59f525310059eac0e6144409301018051ef26e1ea"
+          "sha256": "07386628ac55eba502b3d94b31cc60ab54ff24d1a48f5b3f2ed8d072414d9a59"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-windows.zip",
@@ -849,7 +849,7 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-mac.zip",
-          "sha256": "38acc1bf705fadb025111c1e3836daed3d2fb8ff48e6a6c30f81f36048df23cf"
+          "sha256": "876b4204260a0d46a91296e5268ad54f95ccda0b51339a6f4f2827d4ae8d4fba"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-windows.zip",
@@ -979,7 +979,7 @@
   "downloadAll": {
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "446047d8b569f060357009623698d8a31f89928dc0f948415b3995a2f5cc8963"
+      "sha256": "cac8e64d06cf1c0303059f3be7feb16b8836558e4658aaccd5db46de1cf336cf"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",

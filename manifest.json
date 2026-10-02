@@ -974,12 +974,42 @@
           "sha256": "a6b27a66cb0799298267bfb7c6e8e8606290774a21c0d3c5bd64ea18eacd33b1"
         }
       }
+    },
+    "funniiFunction": {
+      "displayName": "funniiFunction",
+      "description": "A monophonic synth whose pitch follows a math formula: type or paste y = f(x), roll a random curve, and it sweeps across your tempo as a melody.",
+      "category": "Release",
+      "formats": {
+        "mac": [
+          "vst3",
+          "au",
+          "clap",
+          "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
+        ]
+      },
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFunction.png",
+      "content": {
+        "mac": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFunction-mac.zip",
+          "sha256": "bcc267d10f1306da6007d41e776cae6bda22f4e3088f5602706653a370078022"
+        }
+      }
     }
   },
   "downloadAll": {
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "cac8e64d06cf1c0303059f3be7feb16b8836558e4658aaccd5db46de1cf336cf"
+      "sha256": "8570fb21e6e2eaf79000b7aa02267f78be3ac3e1443802061e0772eecf74138b"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",

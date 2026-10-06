@@ -3,7 +3,7 @@
   "plugins": {
     "funniiTune": {
       "displayName": "funniiTune",
-      "description": "Real-time monophonic pitch correction using the same cycle-insert/cycle-delete technique as classic hardware pitch correctors, with 0.5ms latency.",
+      "description": "Test Version, Update To Release",
       "category": "Release",
       "formats": {
         "mac": [
@@ -27,21 +27,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-mac.zip",
-          "sha256": "867f2f3b9db4df003a75fdec1749aebe9e30a79a52c93ac312fcabaed0e597f1"
+          "sha256": "884cc6446ad2cedacbccbad4107257a8a83b39909dd69e8dbfae15ce39c0786c"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-windows.zip",
-          "sha256": "56f9f06b87ae3aeb0e623d05df69f1e7e76dc33951d1de1900565109ed987829"
+          "sha256": "5edc209817b9e9e2c58fa851335bc551fdb657834e1585b9132082d6ba92c28c"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-linux.zip",
-          "sha256": "a3f20b99e019fe62679cebe24baaa4e9afdc1ae7efdae8bcab7fe060f16cb069"
+          "sha256": "9f67bde5e411dcd17924dc9da3f5330168c65a189dc783821e26540e62bc651d"
         }
       }
     },
     "funniiKey": {
       "displayName": "funniiKey",
-      "description": "Detects the musical key and BPM of audio files and live input, with Camelot wheel notation.",
+      "description": "Test Version, Update To Release",
       "category": "Release",
       "formats": {
         "mac": [
@@ -65,97 +65,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-mac.zip",
-          "sha256": "77b0b7e7106b4a34e405bc817b5952c5456e6af63a0b6a9ab1686c267a123e28"
+          "sha256": "f8e25a8b2ba60e8d324667747152c4c01793401d1d67c4910a4b7a25a0cee13b"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-windows.zip",
-          "sha256": "00a66e4ea5647d97c0125690fde5118525c78de8743a4b7bd3a2897b2e13b70f"
+          "sha256": "5bd0a7bf842a2168e90502078073f70bd1c43f82fbdf35f8818bea3152854ee6"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-linux.zip",
-          "sha256": "1b11eb5358e798b0cf2b36951d8f19bf91115917ccc9047fee79527a93fa4d62"
-        }
-      }
-    },
-    "funniiSynth": {
-      "displayName": "funniiSynth",
-      "description": "A wavetable synth with 2000+ procedurally-generated tables, an 8-slot mod matrix, and a piano-roll arpeggiator.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSynth.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSynth-mac.zip",
-          "sha256": "57bdd78f4be25fdfbbf7a8631dfa0fb10f977adcbd69261dbe4867c3107ad052"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSynth-windows.zip",
-          "sha256": "127be93918c836c9556a7ce58d85a498c558f2007b85b9eed97bfdaf45b636be"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSynth-linux.zip",
-          "sha256": "958bc6d93934701ef08fd6d7304a909724f3e407002352a215833446d7479098"
-        }
-      }
-    },
-    "funniiVerb": {
-      "displayName": "funniiVerb",
-      "description": "An advanced 8-line feedback-delay-network reverb with shimmer and true infinite freeze.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVerb.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVerb-mac.zip",
-          "sha256": "a26c7c38c632780785a27ebd6cea3ce1b0b1dd7c88afd0c956a13cdaa55f4ac0"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVerb-windows.zip",
-          "sha256": "666fce85d7fec844187d6350e36bf835f77f06f8f5819f58913580e9d17a8d03"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVerb-linux.zip",
-          "sha256": "b801fec5d369bf077c392e6e2b322f225f706adab642e749054076c9aad6aa6f"
+          "sha256": "813b03b218bc5563bff6e592cff733e98ff55da9dfe9a4901862420307b0acff"
         }
       }
     },
     "funniiGlue": {
       "displayName": "funniiGlue",
-      "description": "A bus compressor with glue-style compression and a DRY/WET blend for parallel compression.",
+      "description": "Test Version, Update To Release",
       "category": "Release",
       "formats": {
         "mac": [
@@ -179,59 +103,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGlue-mac.zip",
-          "sha256": "27ca7d4fa3d0279055fc6d7051d695d897781b0e536f4dc7d0bea0bbd1172ea2"
+          "sha256": "5b705ece664b92be13640bc6d116bc18dce5b94d223a694734866308afd0b693"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGlue-windows.zip",
-          "sha256": "45185e3cd2b3badcc3cc2a418681ff28b0729f6ea4fe1438042f48dd1a6f5e98"
+          "sha256": "ed22a02d65089f5a8998a03c3355ae83ef16530b550f2a67b47ecd60bd67797b"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGlue-linux.zip",
-          "sha256": "1e96e16c3ec22ebd13a56f4b33e052987ee8a7f18f58064aa107cb083c3dd184"
-        }
-      }
-    },
-    "funniiGoodizer": {
-      "displayName": "funniiGoodizer",
-      "description": "A one-knob multiband enhancer/maximizer in the spirit of Soundgoodizer, with four selectable characters.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGoodizer.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGoodizer-mac.zip",
-          "sha256": "9761fb63bbce39f641b9e11da36dd654323f6ec8b62f41eb58fc10c000953231"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGoodizer-windows.zip",
-          "sha256": "ea07482559e19985b3dbcf8ec4bc32afe9786c427d548ac9bc2db730a872f2bc"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGoodizer-linux.zip",
-          "sha256": "91b971ca682637167971c7864f6e292d5edd18e764c946ef14257952952024a3"
+          "sha256": "c9bb66a0c60474e45d97f3b05f576c2ae98a1c8a655589a225f6738a162c3b1d"
         }
       }
     },
     "funniiDelay": {
       "displayName": "funniiDelay",
-      "description": "A stereo delay with independent DRY/WET control, feedback, and tempo-sync options.",
+      "description": "Test Version, Update To Release",
       "category": "Release",
       "formats": {
         "mac": [
@@ -255,59 +141,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-mac.zip",
-          "sha256": "0deef5d386385e6da7486143aa502fc9a6e928ef1d11a02aefafa0728fa68763"
+          "sha256": "f76d5e3af404c52904e15fddc177d32f626e57424dbcafd6a28ce380ec02b864"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-windows.zip",
-          "sha256": "e83098fa07218dbd00011cdc2535c63f140e1ea78efc7e44103949abf48183aa"
+          "sha256": "af4581cc30750a6a244d93e5e2f1ae41dceebb57d1ecd4e6dfc2b81329ff886a"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-linux.zip",
-          "sha256": "2dde6cbb17088da6e3f8ddbc978b163bfde1dcaa60cfad636dec2be865863b3d"
-        }
-      }
-    },
-    "funniiEqualizer": {
-      "displayName": "funniiEqualizer",
-      "description": "A parametric equalizer with up to 50 bands, added by clicking anywhere on the visualizer.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiEqualizer.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiEqualizer-mac.zip",
-          "sha256": "e15a4c42981da443be0a0b8e3a251a2fad6cf4532f16aae909191daac98f0026"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiEqualizer-windows.zip",
-          "sha256": "06c78dcece4db3ea926910e991d7f1273c0f5fbeff84363b42ae68e8d0329d93"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiEqualizer-linux.zip",
-          "sha256": "f79d8d6082c1678cd4d5ccd0beff1c3aa0f3f87462f53d92bcb2cb32d0c06e81"
+          "sha256": "0ac74edeedc97f018e6ff60b19655275c56d435b8327bd67cfa040c42fa77e74"
         }
       }
     },
     "funniiWrite": {
       "displayName": "funniiWrite",
-      "description": "A songwriter's notepad with a built-in rhyme engine.",
+      "description": "Test Version, Update To Release",
       "category": "Release",
       "formats": {
         "mac": [
@@ -331,97 +179,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-mac.zip",
-          "sha256": "5082a228614bc0c02e88ca1f3670936458a013b986b6dba234a9045997bc359e"
+          "sha256": "d7ad77ae2742906ce58168007b5ce31d6788cfd58ecec652feef8504ec77a9f7"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-windows.zip",
-          "sha256": "3dca6c75fb1bb3fe9920d35a534a65dc7301c6b84e592aa4cb7d97f09ddb0792"
+          "sha256": "24959b854f06fc5a372a723ce5f05f55e571ac5fa29bb83a6d4f7e313d8f2b33"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-linux.zip",
-          "sha256": "0e3182a10494ab288822300f42b78a5098cf3c6f90c3d0381c69f13d114f1cd5"
-        }
-      }
-    },
-    "funniiCalculator": {
-      "displayName": "funniiCalculator",
-      "description": "A BPM and key calculator for planning harmonic and tempo relationships between tracks.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiCalculator.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiCalculator-mac.zip",
-          "sha256": "97eea5948cfc1090a120b19e5345a52b621793f5189f79e47f79a04823c6db22"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiCalculator-windows.zip",
-          "sha256": "53af45b4e17f98c5f817b3017d1c90f11053c23d53569dcbb04514639913141c"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiCalculator-linux.zip",
-          "sha256": "1d87451702ff57b2d12a5f8771c89af771e19ff41c2e4849fb1401fee4614898"
-        }
-      }
-    },
-    "funniiChorus": {
-      "displayName": "funniiChorus",
-      "description": "A stacked-flanger ensemble that turns a single voice into a chorus of modulated resonant delay lines.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChorus.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChorus-mac.zip",
-          "sha256": "5cccde1626500dd3e0c4e62621a40d90158c6f926bb85b959a6409429ed9f54e"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChorus-windows.zip",
-          "sha256": "efcd2ef929f29b0315b418d86ff905bb7c7560eedfa732bdde3cb338da339c1b"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiChorus-linux.zip",
-          "sha256": "41c29281d45ac6ceff39dd6397426f7fb80425062bfe3d4c53057935e2a1ed20"
+          "sha256": "a5fcb48938875b35c1115e0e2b62113a0b98eda63d618159049394c2eb735b04"
         }
       }
     },
     "funniiClipper": {
       "displayName": "funniiClipper",
-      "description": "A soft/hard clipper with adjustable drive and MIX blend, with a before/after scope display.",
+      "description": "Test Version, Update To Release",
       "category": "Release",
       "formats": {
         "mac": [
@@ -445,59 +217,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiClipper-mac.zip",
-          "sha256": "c0946eb9171f94a1769ecb3eafe86b3796bc0b98ec4598f59a386a8305248f15"
+          "sha256": "bb76866284c5339806bd08b033097fc12e7aefa10bedc3f0f82199fcc81feeaf"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiClipper-windows.zip",
-          "sha256": "e27d8e3eae0319bc78f79c01d9bbc121e1e5503b6058481f771cb64a07ecf3ed"
+          "sha256": "ae2c7e377b608ead1fa189dd05f959142782e4c258cab91fd7ff8bf9d41fc8ea"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiClipper-linux.zip",
-          "sha256": "319f778849404312aad56e3c10840baaf38b4187f6e5db00df36fea4ac31edc9"
-        }
-      }
-    },
-    "funniiCrush": {
-      "displayName": "funniiCrush",
-      "description": "A classic bitcrusher combining sample-rate reduction and bit-depth quantization.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiCrush.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiCrush-mac.zip",
-          "sha256": "9d2541b367198c8cbe6ea764c2fcc946863213c28fe43fb7e95c93ae8a4f542b"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiCrush-windows.zip",
-          "sha256": "b006261a3e3bc3d547ae25e708ea26d9572342e089fe90e0464a502637bde991"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiCrush-linux.zip",
-          "sha256": "b615e67135e74d1c6ac156ed3dd6e40ce214c0f7a525cfece00e97724596af6b"
+          "sha256": "8a03245be049f2d12338fa684a440b03aa6695b0a0a4dd3fcada8ed425d72e50"
         }
       }
     },
     "funniiDoubler": {
       "displayName": "funniiDoubler",
-      "description": "A stereo doubler that creates width and depth through multi-voice detune and delay.",
+      "description": "Test Version, Update To Release",
       "category": "Release",
       "formats": {
         "mac": [
@@ -521,173 +255,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDoubler-mac.zip",
-          "sha256": "493f617c18c13813a2f693f4c965b6b83c5e5b5ea042ea9553ed0bbb63d23427"
+          "sha256": "6925062fc35d8597110420133ae929f7a3a73a14f48f0550b3c92dae0f509163"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDoubler-windows.zip",
-          "sha256": "46b56faba4c00247f9747953222ff43d9d63df930928b717296a239ad8c5ca25"
+          "sha256": "f267e5c9b84f47c20b94ad83e2f0519aeccbdde9722b646afb19b340cccde0a8"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDoubler-linux.zip",
-          "sha256": "326aeb50a3921096dbc0d287cd34954f31a13662e706cf14fb6ad946492bd6a7"
-        }
-      }
-    },
-    "funniiFormant": {
-      "displayName": "funniiFormant",
-      "description": "A pitch-independent formant shifter that reshapes a voice's resonant character without touching pitch.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFormant.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFormant-mac.zip",
-          "sha256": "d6af9171d25943484bcd4df36159812f4a26c6cb82d24fa2ca6941b272ee1bd9"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFormant-windows.zip",
-          "sha256": "513268c8c252f926808a3658c1cd7507e4b12ece88ec91383d1a9b29b2f800e8"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFormant-linux.zip",
-          "sha256": "94fadd05c80302484b57d05a852c963ba4f8a5f4472c81cc6814e9da2c8fdb49"
-        }
-      }
-    },
-    "funniiGate": {
-      "displayName": "funniiGate",
-      "description": "A noise gate with adjustable threshold, attack, hold, and release, with a real-time gain-reduction visualizer.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGate.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGate-mac.zip",
-          "sha256": "6768d088874a582081b50cd9f5d6e8458720887cff80b6ad8ff97da5917ba44a"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGate-windows.zip",
-          "sha256": "fd622685c130e1861f34ddfa718938fcb7b07ee39e9f970046421a7383c904be"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGate-linux.zip",
-          "sha256": "cfc11cd84f6b920bb8cf553499398d2ddd2d63b894c8227fcf02fced08989518"
-        }
-      }
-    },
-    "funniiHaas": {
-      "displayName": "funniiHaas",
-      "description": "A Haas-effect stereo widener that delays one channel by a few milliseconds to shift perceived direction.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiHaas.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiHaas-mac.zip",
-          "sha256": "54326ad9b3b33add26692e0c031e59fbe989d1759bb64eccd3a1ef7e0f6b7799"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiHaas-windows.zip",
-          "sha256": "2695bd1e222420bc97897db9bb13c304749d0457d230d571bf2ccda045caacd8"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiHaas-linux.zip",
-          "sha256": "42aeeccf9d581056dddb91b412ccdedac6ad034b63c4e84a8eb35a627cd42df3"
-        }
-      }
-    },
-    "funniiPan": {
-      "displayName": "funniiPan",
-      "description": "A tempo-synced auto-panner with a fully drawable pan curve.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPan.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPan-mac.zip",
-          "sha256": "494d491d17773e734c42bc70089446ad1c516474549b26299b6a6e562adafc0c"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPan-windows.zip",
-          "sha256": "60d09c9b99ec41b0e2563d6111e2e3c1990c631d153b7a9c1ce23e9956131d90"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPan-linux.zip",
-          "sha256": "f8b52d39f35a99bd588833f8a7f3e111682afeff23d0081bd0ac0585474af9ab"
+          "sha256": "a405fffc76863223dc8aae944ec432ed15e5bf509732271a9a5c14b3714c907c"
         }
       }
     },
     "funniiBite": {
       "displayName": "funniiBite",
-      "description": "Cascades up to 50 all-pass filters in series to disperse phase around a chosen frequency, giving transients a sharper, harder-hitting edge.",
+      "description": "Test Version, Update To Release",
       "category": "Release",
       "formats": {
         "mac": [
@@ -711,121 +293,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-mac.zip",
-          "sha256": "07386628ac55eba502b3d94b31cc60ab54ff24d1a48f5b3f2ed8d072414d9a59"
+          "sha256": "eac40969499e1867a068d2ab64325247de2e675d51f0bce886c5d88f481f69bd"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-windows.zip",
-          "sha256": "ec8946a0a3fd86766bb107c07647c63155f05b975fe6d2d231794e4f70d909fd"
+          "sha256": "94dc6dd7b3b2e7b30a56ce8e2c49b26394c6bce38686a866ff840a45a8d0fbe7"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-linux.zip",
-          "sha256": "962f9c8f6168eea2d3294eebb57a53ab805f80c48b785b8b6ac002e5ce75cedf"
-        }
-      }
-    },
-    "funniiPitch": {
-      "displayName": "funniiPitch",
-      "description": "A phase-vocoder pitch shifter with \u00b112 semitone integer steps.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-mac.zip",
-          "sha256": "b38dc1c41989d0a6e90d8650a8e8ce11f3c7195deb7bb3ebb2adcc70a57f0480"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-windows.zip",
-          "sha256": "372e88e68f1a7f795b4ddd9b2490f3eeebdc4abac92205a9c73c8d35397fafbe"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-linux.zip",
-          "sha256": "aaef8b12fb3554a1bddecfda418112f622eb0c534750fd0e005df61d7630cf46"
-        }
-      }
-    },
-    "funniiRing": {
-      "displayName": "funniiRing",
-      "description": "A ring modulator with adjustable carrier frequency, modulation depth, and DRY/WET blend.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiRing.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiRing-mac.zip",
-          "sha256": "395924e03b818b95c8aee5b8917b383fd087a84ef2d515311193a5f1a0144cce"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiRing-windows.zip",
-          "sha256": "7feb9b4c53350bddfc9e7f337d06cf6f85e71685626e6edd59c83367b7705fd7"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiRing-linux.zip",
-          "sha256": "92201d5822675c88a61567e53b23754d66c0cd3673776fe13229baf3047041ff"
-        }
-      }
-    },
-    "funniiShare": {
-      "displayName": "funniiShare",
-      "description": "Screen-shares your DAW's audio into Discord, Zoom, and Meet even when it's routed to a dedicated interface instead of your system's default output.",
-      "category": "Release",
-      "formats": {
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiShare.png",
-      "content": {
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiShare-windows.zip",
-          "sha256": "89ddbecf376de8a3fd0fec449e22138c23b545023d50621bd3c443ca6bd33d5d"
-        },
-        "mac": {},
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiShare-linux.zip",
-          "sha256": "f09771c66593975a45212118331098c7ba1cb63f52f3948747e0b9051ace41e6"
+          "sha256": "081f7d26a315d995b2632aadb241ba7f8cfa302f7cc07df52595bf400b5c895c"
         }
       }
     },
     "funniiStop": {
       "displayName": "funniiStop",
-      "description": "A tape-stop/tape-start effect that decelerates and re-accelerates the signal like a tape motor.",
+      "description": "Test Version, Update To Release",
       "category": "Release",
       "formats": {
         "mac": [
@@ -849,135 +331,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-mac.zip",
-          "sha256": "876b4204260a0d46a91296e5268ad54f95ccda0b51339a6f4f2827d4ae8d4fba"
+          "sha256": "6725be4e4eb82953e4b82bf71ee3b698fa70a52c96fa5ad444257aace109a936"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-windows.zip",
-          "sha256": "a72e75b61640cd21fd7c760d5d67de30c17a12ade082db6f539f1df0b022c92c"
+          "sha256": "2b7aeb916ec9d8342e0c00bb004472f7ebbaed2d3fb1b03de2615a78f4b64d07"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-linux.zip",
-          "sha256": "926e78820df22a3b5866ae1b244429075bbde04bca0de987f66afbbeb7231e3d"
-        }
-      }
-    },
-    "funniiVolume": {
-      "displayName": "funniiVolume",
-      "description": "A gain-stage utility with a full EBU R128 loudness meter, mono/phase checks, and A/B trim comparison.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVolume.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVolume-mac.zip",
-          "sha256": "b1614872ab9270e6306c5e78438c2aec9f1135578c15b6327132a27721feb185"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVolume-windows.zip",
-          "sha256": "49fe85a967f45d98d7bc85e3931f84319e61763f86b40118680ecd260d40df04"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVolume-linux.zip",
-          "sha256": "6582be0d3912036d933b1a897c83ca244c5d7ecc377b9c10d075ae374d800be0"
-        }
-      }
-    },
-    "funniiTuner": {
-      "displayName": "funniiTuner",
-      "description": "A real-time chromatic tuner using YIN pitch detection, with sub-cent accuracy and an adjustable A4 reference pitch.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTuner.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTuner-mac.zip",
-          "sha256": "0ec9ab2a54bd3dfbe9d52181ec8f6e0ca57c4eec78ea5e1f9ad62c444b39066b"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTuner-linux.zip",
-          "sha256": "29065819e674c7079d4bddaa562851352c8ae2c6c220189230889e53e4ee1144"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTuner-windows.zip",
-          "sha256": "ae956627bff040c8a70cfa900bdd390cd9fb74326d82488ee088533615fb5f90"
-        }
-      }
-    },
-    "funniiSculpt": {
-      "displayName": "funniiSculpt",
-      "description": "A transient shaper with ATTACK, SUSTAIN, and PUMP controls plus adjustable Speed and a 0dB output clip.",
-      "category": "Release",
-      "formats": {
-        "mac": [
-          "vst3",
-          "au",
-          "clap",
-          "standalone"
-        ],
-        "windows": [
-          "vst3",
-          "clap",
-          "standalone"
-        ],
-        "linux": [
-          "vst3",
-          "clap",
-          "standalone"
-        ]
-      },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSculpt.png",
-      "content": {
-        "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSculpt-mac.zip",
-          "sha256": "91c8b69921264119e04e940340538f66eb4dea3fe3fee6911a42c8c8180cdee9"
-        },
-        "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSculpt-windows.zip",
-          "sha256": "4bbf8dd7beddd618e88f306ec8892889e383de429f300e2eb1f0e5e7053eb60e"
-        },
-        "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSculpt-linux.zip",
-          "sha256": "a6b27a66cb0799298267bfb7c6e8e8606290774a21c0d3c5bd64ea18eacd33b1"
+          "sha256": "f8eb37ad7b5a06d8cf0f4b4181953c874625ef61b3d572a0d037a06271912621"
         }
       }
     },
     "funniiFunction": {
       "displayName": "funniiFunction",
-      "description": "A monophonic synth whose pitch follows a math formula: type or paste y = f(x), roll a random curve, and it sweeps across your tempo as a melody.",
+      "description": "Test Version, Update To Release",
       "category": "Release",
       "formats": {
         "mac": [
@@ -1001,23 +369,69 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFunction-mac.zip",
-          "sha256": "bcc267d10f1306da6007d41e776cae6bda22f4e3088f5602706653a370078022"
+          "sha256": "f2ddca0abe723bc3f03e3f6e0ec1ed19e884226beed3fd8a36e63fdc38b2db46"
+        },
+        "windows": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFunction-windows.zip",
+          "sha256": "d68ba77956f1cf250755362c23096de14651f6dd7203f1e1903c53363e9361da"
+        },
+        "linux": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFunction-linux.zip",
+          "sha256": "ef984ac28c072d6025c2aa617f0b591abde6aece504e3387cf484b14586fa9ed"
+        }
+      }
+    },
+    "funniiSpeech": {
+      "displayName": "funniiSpeech",
+      "description": "Test Version, Update To Release\nVoices by Kokoro (hexgrad, Apache 2.0).",
+      "category": "Release",
+      "formats": {
+        "mac": [
+          "vst3",
+          "au",
+          "clap",
+          "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
+        ]
+      },
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSpeech.png",
+      "content": {
+        "mac": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSpeech-mac.zip",
+          "sha256": "64cf427d435a867e81fc57f7983753844edd7ac1a4d7c2ed2db14c579635d877"
+        },
+        "windows": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSpeech-windows.zip",
+          "sha256": "1227f55e606fbeed3e10d26e0e7102b49b3932e1dac643591eddf193a9b95090"
+        },
+        "linux": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSpeech-linux.zip",
+          "sha256": "6945c1996b63fced10aaa35cce89389ed881dd12b1f61f668204c06ba221238f"
         }
       }
     }
   },
   "downloadAll": {
-    "mac": {
-      "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "8570fb21e6e2eaf79000b7aa02267f78be3ac3e1443802061e0772eecf74138b"
+    "windows": {
+      "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
+      "sha256": "488688074e1c7cd6642b381e93226f00db28b22296723e6ca5f7e80680cb11df"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "76afa6772fabf2672a5cdb05cbd72a1e79dafcbe0ea8155d7828f153f5484882"
+      "sha256": "454f86b4ca9fb9f8984aa7ca4eb610751156e9278e571ddc0ca2d525b465fe1c"
     },
-    "windows": {
-      "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "c907533036f09719614ab6e9ac438dfab4b42936376d53b87c00a1ba6bb29b05"
+    "mac": {
+      "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
+      "sha256": "f1a58bc36853f35798a1f514ebf0577dce3d87e08e4ed6f6c1c93942ba2e0351"
     }
   }
 }

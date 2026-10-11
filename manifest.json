@@ -407,15 +407,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSpeech-mac.zip",
-          "sha256": "7214195e9f9fb7c835d88a4a7780472363b51508253d4bc1f1d1762b96479256"
+          "sha256": "966132ccff6f94b5bf530aabacf76e2d91afaee7755d924ea11fe1327541fb08"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSpeech-windows.zip",
-          "sha256": "f7cf01d563d33fe711b6a54c1abaeda2c657e8615701f74fb4a976108495afc0"
+          "sha256": "a6a132d22107363bd54f4f4516406c800af71e9a450822e07aa24175e840ed5a"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSpeech-linux.zip",
-          "sha256": "b0dfdc29f5b5c7f7d3bea32812f999948d84ed07f70f23008f5ad8a86e1f30fc"
+          "sha256": "b591710ba31500496416a2b689c851725154f21baa1ff7bf7c1a0613345c7c7e"
         }
       }
     },
@@ -507,15 +507,15 @@
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "c4936cdd310d2b0b389f7f14d4240487a1e38f60caca74b8de29b6c34627bbc7"
+      "sha256": "1a31bfa1cc7bba88d3c38f0ff74cf24a9fc5d8718f33f29e8ffc768950756623"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "4be9109c25692bbd93cb130c15f4d044ae5e347f472750cef6642e97d23790a8"
+      "sha256": "7e9a07f1370846e8316c57e6d1165a3c1805e2aa3558d99bf3031bad13e6726b"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "271146251bdc14e5f5024abf97f016d2d0e2c79978c0bdae5d8c6dd11aa5ad28"
+      "sha256": "257ace2fee86cec356d86cf740f9781c85cace67ef72ec6d9410ce24aeb1f7d5"
     }
   }
 }

@@ -3,7 +3,7 @@
   "plugins": {
     "funniiTune": {
       "displayName": "funniiTune",
-      "description": "Test Version, Update To Release",
+      "description": "Real-Time Autotune",
       "category": "Release",
       "formats": {
         "mac": [
@@ -27,21 +27,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-mac.zip",
-          "sha256": "c622448594cef21115ebe69b8837a6668b58b9c2fa02f3024b0f4cee9bc4d322"
+          "sha256": "f4a0fd37c03efa5fc6e5cd15eb339ac86e4b7c65c331f4d6e3f12d998d5ce3b4"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-windows.zip",
-          "sha256": "557c7feaf381adfc07914c12132e9f3d72be482d3878db9e6ba402e063b33e98"
+          "sha256": "c398b8c4281940e702251d0add9162525e50bc7d5f33ce38b0d20467530595c1"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-linux.zip",
-          "sha256": "b42ebca36841529ec37c36148e926aa03f6bb70c44b68a5d2cf4369818425a75"
+          "sha256": "046f8c55df89badc251ab773327782b1b486ac2198e06216412f25f3598b0894"
         }
       }
     },
     "funniiKey": {
       "displayName": "funniiKey",
-      "description": "Test Version, Update To Release",
+      "description": "Detects the Key and Tempo of Your Audio",
       "category": "Release",
       "formats": {
         "mac": [
@@ -65,21 +65,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-mac.zip",
-          "sha256": "3f872bac41f398a2e24d31dc4ec7beee69aaa7473db5e058732a35d5e7ac0284"
+          "sha256": "c6dab37f4c1b95bf03af98c3246bc70ba1ada5d08a54a726d717bc43d6438129"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-windows.zip",
-          "sha256": "86ef0812b2fa726293b37c88c5b68c5c3d614f5738af95fcf2a5072be567d527"
+          "sha256": "e78e29a5f416700e0cc9259ca1edd437fef43fca75ea904c29d81ebaf27cbc6c"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-linux.zip",
-          "sha256": "d29b8687beceba4fc6b991c20a37da1bde290792903d281e3c5d828aa0c1fb3b"
+          "sha256": "e0cf22c216465a33c863cc3c85c777c1d3831a328e2f08dab269e7e208afa73f"
         }
       }
     },
     "funniiGlue": {
       "displayName": "funniiGlue",
-      "description": "Test Version, Update To Release",
+      "description": "Multiband OTT-Style Compressor",
       "category": "Release",
       "formats": {
         "mac": [
@@ -103,21 +103,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGlue-mac.zip",
-          "sha256": "ee83d048f0f2e07ac0d0f8af6e1bbaadc0af7132a108920c8b3158f7fc9e8c83"
+          "sha256": "a50213a52f941fbb601ba7794614d4f42734e6cf0914356e0c803a0eda529c43"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGlue-windows.zip",
-          "sha256": "a90789b51d1e0ee013dc706ab4b6cf87c1b5c9150a1661cce9c302101316602d"
+          "sha256": "81e3623e834dfa92e11af7ffac2aec30a8c12787e4d30f618318d99af1af711f"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGlue-linux.zip",
-          "sha256": "484ed57d4b2b518a3269e212ca34fbf598661af904b54961107e16d9e7ef4856"
+          "sha256": "f9f06cc2992153f12e1c348209c52b12cee16cd1467da82ef20e8ce46fe81360"
         }
       }
     },
     "funniiDelay": {
       "displayName": "funniiDelay",
-      "description": "Test Version, Update To Release",
+      "description": "Fully Customizable Multi-Tap Delay",
       "category": "Release",
       "formats": {
         "mac": [
@@ -141,21 +141,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-mac.zip",
-          "sha256": "c1c58298ca767d82531ec15c95c0a3678d27d7511d3443fb3a9516cb141c039c"
+          "sha256": "7d374ee4e6566ee796cc715eb6026d5c60c95191a87c82ce82624099f8ba5ba7"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-windows.zip",
-          "sha256": "751dc58b72f4fd858db8612e1d68a626960abf3fd1241579424e7abbde8023f0"
+          "sha256": "a34602bc330e566a57c76734876ffebc1fe53b7df1b51fae342b0fa670a06687"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-linux.zip",
-          "sha256": "a6bc1d23d6bd1a47751a51a0438ac38fc691ca2c19716ae827d64bf7c3ab4734"
+          "sha256": "88b30d94469f0e3ed8abb0b442203f430c729c49c4308dc6c9ab3eb6006108b1"
         }
       }
     },
     "funniiWrite": {
       "displayName": "funniiWrite",
-      "description": "Test Version, Update To Release",
+      "description": "Lyric Notepad with Rhyme Lookup",
       "category": "Release",
       "formats": {
         "mac": [
@@ -179,21 +179,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-mac.zip",
-          "sha256": "2cd77f5f3449025a64a11f6aa4ebc6d16fdb797fe780c39b2ce7238c2e3c7dea"
+          "sha256": "959b7848cc5047b5e6c79ecedd5c47c3514806b6696e9fb242c6fc2cbe9071a1"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-windows.zip",
-          "sha256": "2758c70c7ff7a06ea892eebd7f3ef025916dc72c77c848fa116c92bfd7004318"
+          "sha256": "3672efdbe6a2992a3b32f09e5863cdab457095673afb26f9d589dc0f2e83123c"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-linux.zip",
-          "sha256": "12bdbe7584b5f92a18e42f5be0b1c0256b54cf726e2cf8fb7cb9b6145fd34129"
+          "sha256": "fc355ffd1a71ce9037ef11b6c123edacacc8614441c99ba2b5a1b6e60d65dc71"
         }
       }
     },
     "funniiClipper": {
       "displayName": "funniiClipper",
-      "description": "Test Version, Update To Release",
+      "description": "Oversampled Soft Clipper",
       "category": "Release",
       "formats": {
         "mac": [
@@ -217,21 +217,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiClipper-mac.zip",
-          "sha256": "d796e6c97d391ea6844072a8444a9325dc470fd8266f2c161284e33e412b5217"
+          "sha256": "86e72d6e4a6f062552fd46e01209f1d66b5d410a322567cfef766a3b9785ea88"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiClipper-windows.zip",
-          "sha256": "39f1304f1c7b71432d6a2fca425f45d5bc6167c0ca19af722b610a41aded9f98"
+          "sha256": "0d0bad4db67508f6f3aa8cfe1ce813ab546ff9a5170a244b752f760653138a59"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiClipper-linux.zip",
-          "sha256": "39dfb4b8deecea1fbc22346c0418af4eaf1e83f84428852d153b449e4acaaa6a"
+          "sha256": "f1571ce679fd69cbcb1dbbafba4928d058f173196c843082d5710d9e2801cc2f"
         }
       }
     },
     "funniiDoubler": {
       "displayName": "funniiDoubler",
-      "description": "Test Version, Update To Release",
+      "description": "Vocal and Instrument Doubler",
       "category": "Release",
       "formats": {
         "mac": [
@@ -255,21 +255,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDoubler-mac.zip",
-          "sha256": "020344da2c3f3d38abd2335c958127551c323c3dce0eac5aaf224e6e7d1d6e28"
+          "sha256": "de1f1d838b590548f18cb0cd0d018c7ff444191bf40a3fbe1c97f03ebf57028d"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDoubler-windows.zip",
-          "sha256": "3cfe448f684de9f80ab136117aaf59a39ddeb4daa6261bd157c57957005e8048"
+          "sha256": "db7cd359cc74f03d9f4c7bc95b7ae9e153a15393eea3f75a7bc06ced1e9823cf"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDoubler-linux.zip",
-          "sha256": "9e02e2a5a48da19c83230abe40749e70fc07a6e6db2b126f77994a1d13f7c269"
+          "sha256": "6f58e48aebdba2178ab23e83af7e761d2d6680a91562e88b31149a5dde85c3b1"
         }
       }
     },
     "funniiBite": {
       "displayName": "funniiBite",
-      "description": "Test Version, Update To Release",
+      "description": "All-Pass Phase Colorer That Hits Transients Harder",
       "category": "Release",
       "formats": {
         "mac": [
@@ -293,21 +293,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-mac.zip",
-          "sha256": "284a4214cde6e7f5bbb2a7279254b266d376054b512b82bd27c347c78168303f"
+          "sha256": "e50b255ca1b2810e3e52e2e59a198c38346b0354b591a8ed0b5e38b4b8f968f3"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-windows.zip",
-          "sha256": "924255eec1a59ca8945d6db58a1db45f01db844e097f6c42555058fc596f2642"
+          "sha256": "493d44ecb5539e6d32cb8720f99b84d70f1974a327165e48eaa89fdaf0244649"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-linux.zip",
-          "sha256": "5bd403c8db98a547e639dc33f221329c032a955eb2ebd5910faf8a01559997bc"
+          "sha256": "59d1dd659ffabd1caa675221467953a3b575d6a70003ff58ad7a061dfe55c4f4"
         }
       }
     },
     "funniiStop": {
       "displayName": "funniiStop",
-      "description": "Test Version, Update To Release",
+      "description": "Tape-Stop Effect",
       "category": "Release",
       "formats": {
         "mac": [
@@ -331,21 +331,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-mac.zip",
-          "sha256": "7183ffe3c5b1a2c855010144eb1d63ec96e82d88682e0e7c4ad00bc1b5118302"
+          "sha256": "21f5c4fb55cb5b6f3db2114459c7acc9fbd9d9bad6254ee6390173dc32772db5"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-windows.zip",
-          "sha256": "12f60e945e43b529e3dcb9884e7ce1bf427a2c7f2f3347b956d00101a55e7f85"
+          "sha256": "77a627467488c7ce5d148e3018c660ea43a025ecbccf1e0ba7793e33b1c19a94"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-linux.zip",
-          "sha256": "2aec04fdd9c86838603aa9431dbf325af7e553fefd057115a0351c0ad84146e7"
+          "sha256": "c3f3b6973858f264321ac79ae9adff71f038b828da8833a00e00c34847a35dea"
         }
       }
     },
     "funniiFunction": {
       "displayName": "funniiFunction",
-      "description": "Test Version, Update To Release",
+      "description": "Synth Driven by Math Formulas",
       "category": "Release",
       "formats": {
         "mac": [
@@ -369,21 +369,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFunction-mac.zip",
-          "sha256": "7a3fd22507ee1b379bf3b58fb913f93024b827582cf65d4b3fb4162d2b891197"
+          "sha256": "d89cf4088430c38d84f948d2699b6ee42c0e1c21f7467b7fa1d3036e8a267670"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFunction-windows.zip",
-          "sha256": "9ae8643e773ce5a805f8b78dbbd157d85867ae34bc536039f1a5c7a5d49624b4"
+          "sha256": "c2a4be2dc28bb4a27c5be56951d589cd7624a71e41496b3da021ef831f68cf39"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFunction-linux.zip",
-          "sha256": "38993a888c1e9645f8ef100d44291a8eaeb6f4fb641e3b70d045eb9ab7ef91b2"
+          "sha256": "7ad6488c113f878f7af46a7231f4dfc72850586a70ee74ebd40ab69ab51ea015"
         }
       }
     },
     "funniiSpeech": {
       "displayName": "funniiSpeech",
-      "description": "Test Version, Update To Release\nVoices by Kokoro (hexgrad, Apache 2.0).",
+      "description": "Offline Text-to-Speech",
       "category": "Release",
       "formats": {
         "mac": [
@@ -407,31 +407,115 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSpeech-mac.zip",
-          "sha256": "1de0273582da85a0e478d5a73e1ce61a38415be5988459f3e6bd892bffd1291f"
+          "sha256": "10e2f0b12fba24bf61bcf0ef1c58e893e47637c44588aba79f8d87cfa7928266"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSpeech-windows.zip",
-          "sha256": "7569db7fcf55aaa7945ccba7304bb922d1c71b2c320f7dff4614059262537566"
+          "sha256": "f7cf01d563d33fe711b6a54c1abaeda2c657e8615701f74fb4a976108495afc0"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSpeech-linux.zip",
-          "sha256": "eaa583fb3c0e0f7b37300b8a82d07deb9c44fce0e2f540ca75840b25a8e9842c"
+          "sha256": "b0dfdc29f5b5c7f7d3bea32812f999948d84ed07f70f23008f5ad8a86e1f30fc"
         }
       }
+    },
+    "funniiMetranome": {
+      "displayName": "funniiMetranome",
+      "description": "Metronome Synced to Your DAW (Effect and Instrument)",
+      "category": "Release",
+      "formats": {
+        "mac": [
+          "vst3",
+          "au",
+          "clap",
+          "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
+        ]
+      },
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiMetranome.png",
+      "content": {
+        "mac": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiMetranome-mac.zip",
+          "sha256": "5831c266db260a590530a2538618f7e6313a2e12af88405189f2090292695627"
+        },
+        "windows": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiMetranome-windows.zip",
+          "sha256": "99cf5fd695b47b5203785e2faef0c9fce98c4183476d969c90dded44092de237"
+        },
+        "linux": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiMetranome-linux.zip",
+          "sha256": "291674e2e4d1be5b733bfea62dab1cadca5ccbe3a32650f6c67ff94e830d1c97"
+        }
+      },
+      "extraBundles": [
+        "funniiMetranomeGEN"
+      ],
+      "primaryBundle": "funniiMetranomeFX"
+    },
+    "funniiNudge": {
+      "displayName": "funniiNudge",
+      "description": "Note-by-Note Pitch and Timing Editor (Effect and Instrument)",
+      "category": "Release",
+      "formats": {
+        "mac": [
+          "vst3",
+          "au",
+          "clap",
+          "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
+        ]
+      },
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiNudge.png",
+      "content": {
+        "mac": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiNudge-mac.zip",
+          "sha256": "4b3b09dd0cdafd58d31168ca76c231c26cef24769969bd971b4d122ecd058b1b"
+        },
+        "windows": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiNudge-windows.zip",
+          "sha256": "82b75840411412e3174ddff39e3217ae087430d8ab715457967e41f24e451482"
+        },
+        "linux": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiNudge-linux.zip",
+          "sha256": "46333eb64304f73d762e557aa818918f01851b7e06062c3e74e4bd54fc81c3af"
+        }
+      },
+      "extraBundles": [
+        "funniiNudgeGEN"
+      ],
+      "primaryBundle": "funniiNudgeFX"
     }
   },
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "428b5f8c10cd77bb4c8c388b107bbaa74029c0e95b3276447e4e2c5bedc6ad35"
+      "sha256": "c4936cdd310d2b0b389f7f14d4240487a1e38f60caca74b8de29b6c34627bbc7"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "a97a5ae27b706a7ebaac8a6ed0b5a57bd4985720b5a9602cb1559ce958a4f9ab"
+      "sha256": "4be9109c25692bbd93cb130c15f4d044ae5e347f472750cef6642e97d23790a8"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "14df5ea007b59812356590f59aa792fcf22894679cd7ec99d593b931bd05ec9a"
+      "sha256": "c135c7601f0d588c6f4427237f63f772fa6947934080b23db33bf1e2dc0a1cce"
     }
   }
 }

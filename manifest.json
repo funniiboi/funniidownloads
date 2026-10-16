@@ -27,15 +27,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-mac.zip",
-          "sha256": "89dc776b1e0069e1c205fa3d98f88fb1c731e27b0701ebd8e79128cab5f33b63"
+          "sha256": "dd257dad242fee892bb7d05887d810036fc0dfdf8d775f5205e2fd5c68ab5072"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-windows.zip",
-          "sha256": "c398b8c4281940e702251d0add9162525e50bc7d5f33ce38b0d20467530595c1"
+          "sha256": "05102e44ab18406cd68857fae3f96b38797481188b2a758f1c9dd928ec8450c0"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-linux.zip",
-          "sha256": "046f8c55df89badc251ab773327782b1b486ac2198e06216412f25f3598b0894"
+          "sha256": "edf592ce844c9df729fb44432044e54abc6030e5cbe061ff9751b77a4d64b70e"
         }
       }
     },
@@ -65,15 +65,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-mac.zip",
-          "sha256": "280e954607c10e0609cf3a27d6ade795c107b6a41e57153cae9922b10c28046e"
+          "sha256": "4e935101f6e76274ccde490947a1ac5db503e8b2a00fd53d7a9a76a2dce10ed8"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-windows.zip",
-          "sha256": "e78e29a5f416700e0cc9259ca1edd437fef43fca75ea904c29d81ebaf27cbc6c"
+          "sha256": "10b0bc6b9bf89f7202bc65f4aecaed2d05d85c5ea51f01a390681ccc85715929"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-linux.zip",
-          "sha256": "e0cf22c216465a33c863cc3c85c777c1d3831a328e2f08dab269e7e208afa73f"
+          "sha256": "05a28db49b83447ba4fadcabf8a36e3222ac8a33aba8d02a38cdf90f71c5950f"
         }
       }
     },
@@ -103,15 +103,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGlue-mac.zip",
-          "sha256": "1e71bb3a77a719e0cc4b8f59ca5b932a565bdc7dc7e071deffc3df8a93784b07"
+          "sha256": "6954d40c113bb0d4418874396211353c77529b5d6da8913f60864f922b125701"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGlue-windows.zip",
-          "sha256": "81e3623e834dfa92e11af7ffac2aec30a8c12787e4d30f618318d99af1af711f"
+          "sha256": "0ca71274493ae2e7a5c2eee396891381e66d30766146660d42e3bd30ed5ab92a"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiGlue-linux.zip",
-          "sha256": "f9f06cc2992153f12e1c348209c52b12cee16cd1467da82ef20e8ce46fe81360"
+          "sha256": "eeb0c2b21746f210b4468de8ff94169a0880646d63b5902ec89f503217a94e57"
         }
       }
     },
@@ -141,15 +141,53 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-mac.zip",
-          "sha256": "82a7559febd55f40e69495388c1198b8063cd0de8b68753721f26c36035de6ad"
+          "sha256": "135da27b7acfc97a2b1a490c71004e1c4bcf86252a670df5c07cf4a83f3bed3c"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-windows.zip",
-          "sha256": "a34602bc330e566a57c76734876ffebc1fe53b7df1b51fae342b0fa670a06687"
+          "sha256": "b340470f358eeb199acc1a92b8efc83dc3a9bed4b055b5f7fdce226faa97c522"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-linux.zip",
-          "sha256": "88b30d94469f0e3ed8abb0b442203f430c729c49c4308dc6c9ab3eb6006108b1"
+          "sha256": "b43c83b14dd5d8b0f41fb8e495cd64ab9cd495c7447730305d52786a72b29a9b"
+        }
+      }
+    },
+    "funniiEqualizer": {
+      "displayName": "funniiEqualizer",
+      "description": "Parametric EQ with Continuous Slopes",
+      "category": "Release",
+      "formats": {
+        "mac": [
+          "vst3",
+          "au",
+          "clap",
+          "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
+        ]
+      },
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiEqualizer.png",
+      "content": {
+        "mac": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiEqualizer-mac.zip",
+          "sha256": "fa0d9bddb5604e998ab99dff6486dd13ead8df470f9717d6ebc34f7a22ec91cf"
+        },
+        "windows": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiEqualizer-windows.zip",
+          "sha256": "e58b1d8c8f13baad3c68f667cb7c246b20af37b28041b7feb37b6e4e79946038"
+        },
+        "linux": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiEqualizer-linux.zip",
+          "sha256": "b5532e42cc465422d2200c287d0a9796b7e19a711e056712f3e3554950a7a944"
         }
       }
     },
@@ -179,15 +217,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-mac.zip",
-          "sha256": "79482b97d1fe75f13b5ae6da023f4bc6eebdcd47ac708b7cc3ad57cee19deb0c"
+          "sha256": "6f8bc9d0db728a5723465cc40800340d76dbb322c031ba8bb7697325b0d607f1"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-windows.zip",
-          "sha256": "3672efdbe6a2992a3b32f09e5863cdab457095673afb26f9d589dc0f2e83123c"
+          "sha256": "1385a6f5c61362992e5be14ce4da56d493df64296828036b54ea7a3c370c1d12"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-linux.zip",
-          "sha256": "fc355ffd1a71ce9037ef11b6c123edacacc8614441c99ba2b5a1b6e60d65dc71"
+          "sha256": "759d7efc3c5b2ac4f4b9b729f10b96877810dea9744735df49efe6e9fc597c24"
         }
       }
     },
@@ -217,15 +255,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiClipper-mac.zip",
-          "sha256": "0418a8e67eae54e870072ace5bd68c6d37aed01380074697e3d893c38a7ce061"
+          "sha256": "252245b172a4b6b806beb3ec4ec5a259bb958bb0b9e73b023ec52d34d9d87842"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiClipper-windows.zip",
-          "sha256": "0d0bad4db67508f6f3aa8cfe1ce813ab546ff9a5170a244b752f760653138a59"
+          "sha256": "976572418e33c337ca4768d22968ff2999ff8a7123faf3cd7dbe959313ec1eba"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiClipper-linux.zip",
-          "sha256": "f1571ce679fd69cbcb1dbbafba4928d058f173196c843082d5710d9e2801cc2f"
+          "sha256": "ac46aef0f825c02a006391149e0c487b4cad9f33e17c7b164f2959a356231ec0"
         }
       }
     },
@@ -255,15 +293,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDoubler-mac.zip",
-          "sha256": "6233b0d1ea240c13ab98f6a621672c09f023c3ebac31880071e5a8b6536bc921"
+          "sha256": "6381cfa5efad82a9713a3440bf25d2f7c25f0658b024eae18cdfae5df93c25a4"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDoubler-windows.zip",
-          "sha256": "db7cd359cc74f03d9f4c7bc95b7ae9e153a15393eea3f75a7bc06ced1e9823cf"
+          "sha256": "82837031b7c8bcf69390039fac83cbb166186648257cfcf9323b846b229b54f4"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDoubler-linux.zip",
-          "sha256": "6f58e48aebdba2178ab23e83af7e761d2d6680a91562e88b31149a5dde85c3b1"
+          "sha256": "2e010d398bb36c60e8791f90dba7f16fb763a8d179abf30578861994fd38885a"
         }
       }
     },
@@ -293,15 +331,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-mac.zip",
-          "sha256": "e3c525bfd4e4bafdf182b836d06a0ab15ae4b59dc9cf076be57502ffe039d251"
+          "sha256": "dd3f26b1fbed5d6cba1892225d05c38b95f127b8c41ed07b190aadc16296152b"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-windows.zip",
-          "sha256": "493d44ecb5539e6d32cb8720f99b84d70f1974a327165e48eaa89fdaf0244649"
+          "sha256": "8e662e8b336fcee0452e102669e59f2758303a9b7be2b71e48bc3305c71bfd4c"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiBite-linux.zip",
-          "sha256": "59d1dd659ffabd1caa675221467953a3b575d6a70003ff58ad7a061dfe55c4f4"
+          "sha256": "32f82e3b08ab77f0430f0978fffd6bcf2b363579308011866a674931b8ebfbf5"
         }
       }
     },
@@ -331,15 +369,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-mac.zip",
-          "sha256": "a67bf671c0059a8a277ae311ad22e84964046372bc73fd8ec14d3137674518ce"
+          "sha256": "04b7692ca8f10fbfd54a2487315befa1c80f10d32d382e5ef6abbc97b9202ef4"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-windows.zip",
-          "sha256": "77a627467488c7ce5d148e3018c660ea43a025ecbccf1e0ba7793e33b1c19a94"
+          "sha256": "154721cc1de86261af59720b70eb51c3984b12d5e8f026fc3b7f595708fc4d31"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-linux.zip",
-          "sha256": "c3f3b6973858f264321ac79ae9adff71f038b828da8833a00e00c34847a35dea"
+          "sha256": "45d9d96de23131c3c68becf60b4339a558b7e6cc5d0f149e4968e84d9163c519"
         }
       }
     },
@@ -369,15 +407,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFunction-mac.zip",
-          "sha256": "93a3c1c3e95ae717a0af014fb0c8084f585bb4ed0bc5ed611cd2c6cb6bc17c6c"
+          "sha256": "fc36e4113281021e5e6120357e3dc987e3f6a0d50e79e49943c733a858d73a59"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFunction-windows.zip",
-          "sha256": "c2a4be2dc28bb4a27c5be56951d589cd7624a71e41496b3da021ef831f68cf39"
+          "sha256": "3e735f1b9022e271889153149179044eb6792ae928c0f4dd06f27c9a7293a1d4"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFunction-linux.zip",
-          "sha256": "7ad6488c113f878f7af46a7231f4dfc72850586a70ee74ebd40ab69ab51ea015"
+          "sha256": "41ea258c5e7b421851d6f558ee15ba0540592262710121e9edff3a948022e1c2"
         }
       }
     },
@@ -407,15 +445,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSpeech-mac.zip",
-          "sha256": "966132ccff6f94b5bf530aabacf76e2d91afaee7755d924ea11fe1327541fb08"
+          "sha256": "f5a426e376b601613826a1e1be6d9e2cea49573502f3c90904eac8dc3ba8e8b9"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSpeech-windows.zip",
-          "sha256": "a6a132d22107363bd54f4f4516406c800af71e9a450822e07aa24175e840ed5a"
+          "sha256": "68f11f84223dbe8cab3b0f74354fc224dd607abf4c0cf0b05c2609a09677c34c"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiSpeech-linux.zip",
-          "sha256": "b591710ba31500496416a2b689c851725154f21baa1ff7bf7c1a0613345c7c7e"
+          "sha256": "329a9613ddcb31416f38de635457601d6fb082458a49653b1c6732999755e7b6"
         }
       }
     },
@@ -445,15 +483,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiMetranome-mac.zip",
-          "sha256": "7aa90cc8e4f3eeb450c05ad7018d9f92db5c21da946b2e4d470c3a413fa5f9d0"
+          "sha256": "6a6523944482be695467dc7be40f0c38bc5ea458a5a1696cde7c4422b9a963d4"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiMetranome-windows.zip",
-          "sha256": "99cf5fd695b47b5203785e2faef0c9fce98c4183476d969c90dded44092de237"
+          "sha256": "d7510e03285d737df30952761420c3a87c4231355a0c04880cd090b40b75f634"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiMetranome-linux.zip",
-          "sha256": "291674e2e4d1be5b733bfea62dab1cadca5ccbe3a32650f6c67ff94e830d1c97"
+          "sha256": "dc579bc2b189dfb7ac89656dc5b072edcf21f29d92058786042206ba951500d4"
         }
       },
       "extraBundles": [
@@ -487,15 +525,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiNudge-mac.zip",
-          "sha256": "ae0c5b3956687f180d79dc8cf97d68802b24fc8c02b1a2961a8096d65f88f8b2"
+          "sha256": "e4c5ab6bbbb77d625b440268eb513c86252b97760412b551a0b2ecb1fd46c892"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiNudge-windows.zip",
-          "sha256": "82b75840411412e3174ddff39e3217ae087430d8ab715457967e41f24e451482"
+          "sha256": "23d89c8bef587aa89ee520e7f315a3f904f0c0dd33c1dba9b02bf712ee111735"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiNudge-linux.zip",
-          "sha256": "46333eb64304f73d762e557aa818918f01851b7e06062c3e74e4bd54fc81c3af"
+          "sha256": "8ddca0c1a19708d8c68e5a41107dbf31d105b0599c00219cd32401c0a4a3584c"
         }
       },
       "extraBundles": [
@@ -507,15 +545,15 @@
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "1a31bfa1cc7bba88d3c38f0ff74cf24a9fc5d8718f33f29e8ffc768950756623"
+      "sha256": "25e46e0bda1d5eae44de630a8b41dffbb3a88d7b1452d09fa3bc37f85e63eae4"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "7e9a07f1370846e8316c57e6d1165a3c1805e2aa3558d99bf3031bad13e6726b"
+      "sha256": "9ef397882f66206cdb3903aae046a25048c3e87888b4af00bf6529c9a8c5de66"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "257ace2fee86cec356d86cf740f9781c85cace67ef72ec6d9410ce24aeb1f7d5"
+      "sha256": "c23982509db64548bb25fcaa7c4ad8be99ba6f25d8ff4d6759f07b2cde5341b8"
     }
   }
 }

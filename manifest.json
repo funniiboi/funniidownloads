@@ -575,8 +575,8 @@
       ],
       "primaryBundle": "funniiMetranomeFX"
     },
-    "funniiNudge": {
-      "displayName": "funniiNudge",
+    "funniiPitch": {
+      "displayName": "funniiPitch",
       "description": "Note-by-Note Pitch and Timing Editor (Effect and Instrument)",
       "category": "Release",
       "formats": {
@@ -597,39 +597,39 @@
           "standalone"
         ]
       },
-      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiNudge.png",
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch.png",
       "content": {
         "mac": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiNudge-mac.zip",
-          "sha256": "e4c5ab6bbbb77d625b440268eb513c86252b97760412b551a0b2ecb1fd46c892"
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-mac.zip",
+          "sha256": "9dce3572509ecd840da5d407c7914b5076d730070f8e17355d3e292f395b0726"
         },
         "windows": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiNudge-windows.zip",
-          "sha256": "23d89c8bef587aa89ee520e7f315a3f904f0c0dd33c1dba9b02bf712ee111735"
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-windows.zip",
+          "sha256": "c835342d3a3aa8f1465b33ba7ad811957721b370b08add08c5d0bd369e3eda21"
         },
         "linux": {
-          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiNudge-linux.zip",
-          "sha256": "8ddca0c1a19708d8c68e5a41107dbf31d105b0599c00219cd32401c0a4a3584c"
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-linux.zip",
+          "sha256": "00babb57bd10bef5cef4b51537f92ce2a4d1975ad05a8679785d3d418e19195e"
         }
       },
       "extraBundles": [
-        "funniiNudgeGEN"
+        "funniiPitchGEN"
       ],
-      "primaryBundle": "funniiNudgeFX"
+      "primaryBundle": "funniiPitchFX"
     }
   },
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "68684ffff097fe4f5f7b6d35f2071c75f1f1f00e34154283d39842d76b1643e9"
+      "sha256": "90dda5d4e11246db69c606eb26f63de7675da88a9f6712289650474033302f23"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "981cbf1bbbf078972d62efb6d855eeb79c660f392cfaa3d3fc04e0c1aff5cafc"
+      "sha256": "72c52fffbfa0ee3b2ce305b11e951212da9a32d113599666d1d3efa34e343be0"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "bc0e73d661c3dd603e137f9cedbf37460b852261e8c9437055ee689186bbb62d"
+      "sha256": "84e1de148074f723ea8a299e701507e9942e63114d38bbff348ef38be207940c"
     }
   }
 }

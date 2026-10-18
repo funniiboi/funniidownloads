@@ -179,15 +179,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiEqualizer-mac.zip",
-          "sha256": "bb83d5dd0b952bb9a89f0c05338ca33d9c8d3c532d60f2856931c2041d7a4f71"
+          "sha256": "a8d6a2da5b17ecba0cd0a0649d8370dbcf11d6b97b85c448ede907ac5a5def03"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiEqualizer-windows.zip",
-          "sha256": "d1224283298ef27fbd368467981f13237a067286caa36c8708963dd55c4f2516"
+          "sha256": "79d06bf8577bddc69cc30dc2fcd590a5de34e38cbf6663f7437d30aaa417a0d5"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiEqualizer-linux.zip",
-          "sha256": "dc77eca53a001932a043282632b81fe417bdafb84aae171447786f007fc9664d"
+          "sha256": "3c9c970498317671cb95d45cbac9ac1ab04f23bb6d8c8ffa073b44a128203ef2"
         }
       }
     },
@@ -545,15 +545,15 @@
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "dbc07f31ae9c802412430cf461a65d75ad5e29fe6a8fa762c5a8e68c62894746"
+      "sha256": "f768f6ba4444aaf7895f4446df1904d2d61d17f57f3ce12ee193fa1e58db7b90"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "648a6e365d4ed11a27b7ddd5f826acfefe7eadc85128f9bb8fd3041f2c100861"
+      "sha256": "9ac20844fbdd0c521dbe39f355ecec5d7f1a23fadfc40bd75a9b6a93d0129e24"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "4d44b47d2268c414d0aec88c247fcf688552281ff8dfbb7b72f69c5ef411337b"
+      "sha256": "bb88697cdbf7c6a44bda6f1711def0400d2795c9c7cbb670e72f9a86204d7c09"
     }
   }
 }

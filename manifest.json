@@ -381,6 +381,44 @@
         }
       }
     },
+    "funniiShift": {
+      "displayName": "funniiShift",
+      "description": "Pitch and Frequency Shifter",
+      "category": "Release",
+      "formats": {
+        "mac": [
+          "vst3",
+          "au",
+          "clap",
+          "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
+        ]
+      },
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiShift.png",
+      "content": {
+        "mac": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiShift-mac.zip",
+          "sha256": "63bc417ceb22273dd2e7ccd72d83e2a8e3fb364a59082f9efa75bfeb0bb3cbbf"
+        },
+        "windows": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiShift-windows.zip",
+          "sha256": "2bcbaeeaa949754e6703caab2ff227632206f08d5dc616ff9037acd2a63aebf1"
+        },
+        "linux": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiShift-linux.zip",
+          "sha256": "653cd45b7703ba32aecd4171fd2ecad4d472bc53b605b08ce53b9dc6f107c1d5"
+        }
+      }
+    },
     "funniiStop": {
       "displayName": "funniiStop",
       "description": "Tape-Stop Effect",
@@ -583,15 +621,15 @@
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "5ab3c8c0e3d344b3c85ab062d95b8ee2caeb527c36da981655456d89af844257"
+      "sha256": "68684ffff097fe4f5f7b6d35f2071c75f1f1f00e34154283d39842d76b1643e9"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "4364a0f102bb95b54eb9b6385fe1e4e525da58df751ffcecf127bc9b78c753a0"
+      "sha256": "981cbf1bbbf078972d62efb6d855eeb79c660f392cfaa3d3fc04e0c1aff5cafc"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "aadf0a6963154b0f7c7a3d0126f1aff399bbcedc73a61fd9c3b80c2c88fd3f19"
+      "sha256": "bc0e73d661c3dd603e137f9cedbf37460b852261e8c9437055ee689186bbb62d"
     }
   }
 }

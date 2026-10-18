@@ -305,6 +305,44 @@
         }
       }
     },
+    "funniiHaas": {
+      "displayName": "funniiHaas",
+      "description": "Haas-Delay Stereo Widener",
+      "category": "Release",
+      "formats": {
+        "mac": [
+          "vst3",
+          "au",
+          "clap",
+          "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
+        ]
+      },
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiHaas.png",
+      "content": {
+        "mac": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiHaas-mac.zip",
+          "sha256": "e3e4e5b8588a5bcea01d0377fbca0fad4f43b31a969b88440d8694ca8c45f5d0"
+        },
+        "windows": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiHaas-windows.zip",
+          "sha256": "e7ea73eaa7bbb349006fba20e6d3fb0ce7baaa2e1e120f09cca619412c1645c0"
+        },
+        "linux": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiHaas-linux.zip",
+          "sha256": "7b57946dc0fc09aef7eb810baec7f9947e8cad85bd00b31dfb303d5f240647b9"
+        }
+      }
+    },
     "funniiBite": {
       "displayName": "funniiBite",
       "description": "All-Pass Phase Colorer That Hits Transients Harder",
@@ -545,15 +583,15 @@
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "f768f6ba4444aaf7895f4446df1904d2d61d17f57f3ce12ee193fa1e58db7b90"
+      "sha256": "5ab3c8c0e3d344b3c85ab062d95b8ee2caeb527c36da981655456d89af844257"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "9ac20844fbdd0c521dbe39f355ecec5d7f1a23fadfc40bd75a9b6a93d0129e24"
+      "sha256": "4364a0f102bb95b54eb9b6385fe1e4e525da58df751ffcecf127bc9b78c753a0"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "bb88697cdbf7c6a44bda6f1711def0400d2795c9c7cbb670e72f9a86204d7c09"
+      "sha256": "aadf0a6963154b0f7c7a3d0126f1aff399bbcedc73a61fd9c3b80c2c88fd3f19"
     }
   }
 }

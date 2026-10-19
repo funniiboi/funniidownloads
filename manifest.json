@@ -601,35 +601,40 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-mac.zip",
-          "sha256": "9dce3572509ecd840da5d407c7914b5076d730070f8e17355d3e292f395b0726"
+          "sha256": "e7d6b15fb200f43aa2185572e7124345bfcacbe9139fad69aac3ba7553fd5ce3"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-windows.zip",
-          "sha256": "c835342d3a3aa8f1465b33ba7ad811957721b370b08add08c5d0bd369e3eda21"
+          "sha256": "fc29f783af5cff30a1e412eb1313de61a86167f7474c2f522de70f8ca09f21af"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-linux.zip",
-          "sha256": "00babb57bd10bef5cef4b51537f92ce2a4d1975ad05a8679785d3d418e19195e"
+          "sha256": "019733f94f2dcb754d356bae4853d43f3250ac6147c7ee25b3ece24842ba7f63"
         }
       },
       "extraBundles": [
         "funniiPitchGEN"
       ],
-      "primaryBundle": "funniiPitchFX"
+      "primaryBundle": "funniiPitchFX",
+      "release": {
+        "version": "0.40",
+        "date": "2026-10-18",
+        "notes": "New pitch engine for cleaner, more natural shifts that keep the voice's character. Notes now split by syllable, and recording stops when your DAW stops, loops or seeks."
+      }
     }
   },
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "90dda5d4e11246db69c606eb26f63de7675da88a9f6712289650474033302f23"
+      "sha256": "0c97d269a10c7b6327244e660d62c9b1b6efcb168e3a96c581a6a2ac587046df"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "72c52fffbfa0ee3b2ce305b11e951212da9a32d113599666d1d3efa34e343be0"
+      "sha256": "e9417e6d3d6758acaed9722e24726a14a867890d771c7cffdd1a8845441e55f6"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "84e1de148074f723ea8a299e701507e9942e63114d38bbff348ef38be207940c"
+      "sha256": "27bc8650fdaef2237ad801a86bcd04bd858067044191dc2010a34fb478da4078"
     }
   }
 }

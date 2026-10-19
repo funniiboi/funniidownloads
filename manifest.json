@@ -611,15 +611,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-mac.zip",
-          "sha256": "85bfd919980851f98a0f5bb6bdb83536ffe0ad0b281fa38fdde0835ef850312a"
+          "sha256": "92d02c45f1d5d48a60c92502af0f8dad8926f131bbd108e08237da596569119f"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-windows.zip",
-          "sha256": "49a05cbb025569e0d16777ded35abac09357eebd4a89be1de84731fa034aa59d"
+          "sha256": "26bab8b3a182520eb3e7b84395a87e6dd0c2dd9a90846d2b425dc8dad267ee2e"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-linux.zip",
-          "sha256": "0c7b2d45d9d5b5d7a7131e838217f61b89c917ad68d0fa4209ca3ed6ff38048a"
+          "sha256": "7f9c2a60122771bb2755e9f6e43f7632e8f2e255abfa8002f915555ea93b1525"
         }
       },
       "extraBundles": [
@@ -627,24 +627,24 @@
       ],
       "primaryBundle": "funniiPitchFX",
       "release": {
-        "version": "0.52",
+        "version": "0.54",
         "date": "2026-10-19",
-        "notes": "MIDI mode: sing your clip from a keyboard. Glide or Chords, and Silent / Original / Hold for when no key is held."
+        "notes": "New Detune knob (A4 = 420-460 Hz) to match tracks that aren't tuned to 440, and MIDI mode now plays your original take between notes by default."
       }
     }
   },
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "b10a1b72f965ea10eac2d830b8edcef7c3761173403876e3e5c08002e55d0e45"
+      "sha256": "8877ad9e23411d070964b5827a8ffa24da77317b5a32742c1d54b84a4dc8ace5"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "eb2cfec13bfd0d64cb8a0a66e12d68ed5b498a383a4f85d26b6eb6d0c24911bb"
+      "sha256": "c786e8b05ac4f36007e54ae672cdcfe01e71fb9f02b48440ba16b6c62ff0b08f"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "07d6772122567ba1c6fffeed1958b402506f797da739aa1d15ec626cc01168a1"
+      "sha256": "4fee137a9c85123b4cf9a2d6380e6a48740d8675c5751e78b4258b7ae9b539b2"
     }
   }
 }

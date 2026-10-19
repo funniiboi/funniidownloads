@@ -27,16 +27,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-mac.zip",
-          "sha256": "dd257dad242fee892bb7d05887d810036fc0dfdf8d775f5205e2fd5c68ab5072"
+          "sha256": "16050d3abce37aa8c23d7d816d086686fcc3ec0b0ea1dc32fcc10fd53da64d15"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-windows.zip",
-          "sha256": "05102e44ab18406cd68857fae3f96b38797481188b2a758f1c9dd928ec8450c0"
+          "sha256": "13f948995865f17fee1347b90a14028a2288bc0594f6f703e4256ee696ba1fdc"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-linux.zip",
-          "sha256": "edf592ce844c9df729fb44432044e54abc6030e5cbe061ff9751b77a4d64b70e"
+          "sha256": "2f371e701415023b34fe26aeccda52afad41b11b0b4a52e9605f1dd92fa28cd3"
         }
+      },
+      "release": {
+        "version": "0.96",
+        "date": "2026-10-19",
+        "notes": "Steadier, more accurate tuning: held notes stay put when your voice moves, no more pitch glitches flying off, the same result every playback at any mic level, a Vibrato knob that works like Natural Vibrato, and no more DAW slowdowns with lots of plugins open."
       }
     },
     "funniiKey": {
@@ -483,16 +488,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFunction-mac.zip",
-          "sha256": "28e6c93c10b4ea978598940963708dddd6a9128b45921f3234a8aff875608652"
+          "sha256": "6547847d44e1be142300d06639de0946fe8742a905622add2ee27abd36100fa7"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFunction-windows.zip",
-          "sha256": "a852945251f93a41b5856010e9c02a742ccfeee083814de42c7a2b0c5ec72e4e"
+          "sha256": "348fb20ea399f0c9e067021722585f2f4926c8e530a2a757ebc7c0cd889dcbf3"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiFunction-linux.zip",
-          "sha256": "7da7f61e4b8d76331d761751ba197969d139424ccc674cb60c00803eb79572c2"
+          "sha256": "3d30318661fcc35559d1f4e5dc17b7a83ad3d3884c3d82171f4ac8fc65aecc5e"
         }
+      },
+      "release": {
+        "version": "0.32",
+        "date": "2026-10-19",
+        "notes": "Undo / redo for curves: step back through dice rolls, presets and edits (buttons by the dice, or Cmd/Ctrl+Z)."
       }
     },
     "funniiSpeech": {
@@ -601,15 +611,15 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-mac.zip",
-          "sha256": "e7d6b15fb200f43aa2185572e7124345bfcacbe9139fad69aac3ba7553fd5ce3"
+          "sha256": "85bfd919980851f98a0f5bb6bdb83536ffe0ad0b281fa38fdde0835ef850312a"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-windows.zip",
-          "sha256": "fc29f783af5cff30a1e412eb1313de61a86167f7474c2f522de70f8ca09f21af"
+          "sha256": "49a05cbb025569e0d16777ded35abac09357eebd4a89be1de84731fa034aa59d"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiPitch-linux.zip",
-          "sha256": "019733f94f2dcb754d356bae4853d43f3250ac6147c7ee25b3ece24842ba7f63"
+          "sha256": "0c7b2d45d9d5b5d7a7131e838217f61b89c917ad68d0fa4209ca3ed6ff38048a"
         }
       },
       "extraBundles": [
@@ -617,24 +627,24 @@
       ],
       "primaryBundle": "funniiPitchFX",
       "release": {
-        "version": "0.40",
-        "date": "2026-10-18",
-        "notes": "New pitch engine for cleaner, more natural shifts that keep the voice's character. Notes now split by syllable, and recording stops when your DAW stops, loops or seeks."
+        "version": "0.52",
+        "date": "2026-10-19",
+        "notes": "MIDI mode: sing your clip from a keyboard. Glide or Chords, and Silent / Original / Hold for when no key is held."
       }
     }
   },
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "0c97d269a10c7b6327244e660d62c9b1b6efcb168e3a96c581a6a2ac587046df"
+      "sha256": "b10a1b72f965ea10eac2d830b8edcef7c3761173403876e3e5c08002e55d0e45"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "e9417e6d3d6758acaed9722e24726a14a867890d771c7cffdd1a8845441e55f6"
+      "sha256": "eb2cfec13bfd0d64cb8a0a66e12d68ed5b498a383a4f85d26b6eb6d0c24911bb"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "27bc8650fdaef2237ad801a86bcd04bd858067044191dc2010a34fb478da4078"
+      "sha256": "07d6772122567ba1c6fffeed1958b402506f797da739aa1d15ec626cc01168a1"
     }
   }
 }

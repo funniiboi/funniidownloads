@@ -70,16 +70,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-mac.zip",
-          "sha256": "4e935101f6e76274ccde490947a1ac5db503e8b2a00fd53d7a9a76a2dce10ed8"
+          "sha256": "4dfba85f10d536ee1a7933056f49872d5db951c0ef9287206931d35f40cf1455"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-windows.zip",
-          "sha256": "10b0bc6b9bf89f7202bc65f4aecaed2d05d85c5ea51f01a390681ccc85715929"
+          "sha256": "54600bc67700ea9d6f748f495569bb8210ac392dc9ab876ca7d6937178071b18"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-linux.zip",
-          "sha256": "05a28db49b83447ba4fadcabf8a36e3222ac8a33aba8d02a38cdf90f71c5950f"
+          "sha256": "7b2fded61a64cde672ef63ea47295c41f0e5af423465025dbc95f9a4dfdfc02d"
         }
+      },
+      "release": {
+        "version": "0.69",
+        "date": "2026-10-30",
+        "notes": "UI redesign, with more accurate key and tempo detection. Send to funniiPitch will work after funniiPitch's next update."
       }
     },
     "funniiGlue": {
@@ -641,15 +646,15 @@
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "f5cd66402cdf50d60c62cdc21569ffb720a5354b8414b7f2efe8c771cc76649f"
+      "sha256": "2b1848f0393363adfda7a4f4c376baa3778648537b38ad4cfeb6f4b098f7e470"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "7e693604ac26d6c0ba1a60d2232e998fba5826c357fa2d95f52c6c79e6c470d4"
+      "sha256": "5358a0868781d3560b775646f499e21f9366b936d0bbc794ce88bbedc2d88c68"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "a4c31cafe018091cb98a224b031d0bb4a1074bcc0b9a0bc88fe8df8e88be5a49"
+      "sha256": "7640fd11d975b5c73d9459152a39384de9c6bd14fbd2d62452dcfd9330abc921"
     }
   }
 }

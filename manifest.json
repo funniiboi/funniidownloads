@@ -27,21 +27,22 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-mac.zip",
-          "sha256": "d18b2a39725a8c9d9845513af0e43784656eddac7818fedf74864661298ed506"
+          "sha256": "99b0c98a55e653fe04e2af22ba24ea3db3e1da65e238b8f56ffa688272fdea97"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-windows.zip",
-          "sha256": "6e430a5bb30f5d08ffde58ae5a7134bceaf44a823140dc407161feb44d3c3762"
+          "sha256": "a591a08cc5d11c478c616901965017fa3236baf5d1521e5fda3877a082964b4c"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-linux.zip",
-          "sha256": "4625084e63fbe20e3c460bebbed76190048b24e610640ea1e7ec47fff21bc64e"
+          "sha256": "68e72712ff6f7d535be9dacdc5950db3b809ba3c35e3c97d0fd65c88c3fd0ab5"
         }
       },
       "release": {
-        "version": "0.112",
-        "date": "2026-10-29",
-        "notes": "UI redesign, with a new waterfall view of your voice. Sensitivity is now called Pickup and A4 is now Detune (sessions load unchanged)."
+        "version": "0.114",
+        "date": "2026-10-30",
+        "notes": "",
+        "silent": true
       }
     },
     "funniiKey": {
@@ -70,21 +71,22 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-mac.zip",
-          "sha256": "4dfba85f10d536ee1a7933056f49872d5db951c0ef9287206931d35f40cf1455"
+          "sha256": "b0a306cf4ffaad1ce3d336d85ad442b78a5d4c2e575151f9b668b0e79e4448ed"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-windows.zip",
-          "sha256": "54600bc67700ea9d6f748f495569bb8210ac392dc9ab876ca7d6937178071b18"
+          "sha256": "f8c657fc61b9539e747e44d43348b690eca86d6df472243ab6baedcb902523b4"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-linux.zip",
-          "sha256": "7b2fded61a64cde672ef63ea47295c41f0e5af423465025dbc95f9a4dfdfc02d"
+          "sha256": "1e17f8a0a22e4a80e2ea996e2a81141e3ca5cabdb6f87f0d8729035d8cc1b683"
         }
       },
       "release": {
-        "version": "0.69",
+        "version": "0.71",
         "date": "2026-10-30",
-        "notes": "UI redesign, with more accurate key and tempo detection. Send to funniiPitch will work after funniiPitch's next update."
+        "notes": "",
+        "silent": true
       }
     },
     "funniiGlue": {
@@ -151,21 +153,22 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-mac.zip",
-          "sha256": "a15dfc6b2f29c4409553ac2c110fed4ea7301e7907b12987113ee7b24510bb54"
+          "sha256": "5fc432ad1a6a88a77fd3d809c3c816f3fb09069d4f05e1d403e15fe9c7da1758"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-windows.zip",
-          "sha256": "da7a5d4ee9eee5935ab505e75dfcf119016eb381b6d6398c6ac7bad554c08aaf"
+          "sha256": "540313c42c6768128c51017697ccb76412edb586d1124f2265b6dc25e306c54f"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-linux.zip",
-          "sha256": "d0121a3d145e9a272c259609d1303ee8c4e5c9270009ded7ad45e9e20ebbd8bd"
+          "sha256": "4ee79be854cbc064e36545ce0e6d53fdeedcc89068fbf243354b1a80b95824b8"
         }
       },
       "release": {
-        "version": "0.81",
-        "date": "2026-10-29",
-        "notes": "UI redesign. New: Send, Duck, Lo/Hi Cut on the echoes, Swing, and per-echo Stereo and Pitch. Heads-up: in Stereo mode a positive Offset now leans the echoes right, so older sessions using it come back mirrored."
+        "version": "0.83",
+        "date": "2026-10-30",
+        "notes": "",
+        "silent": true
       }
     },
     "funniiEqualizer": {
@@ -646,15 +649,15 @@
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "2b1848f0393363adfda7a4f4c376baa3778648537b38ad4cfeb6f4b098f7e470"
+      "sha256": "a8d3de6044113061cfc9f8a655e5c6ed18f9dcd3d0f3726e1c67a78109b9552d"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "5358a0868781d3560b775646f499e21f9366b936d0bbc794ce88bbedc2d88c68"
+      "sha256": "f18ffe6fd97109fa75b73ff18c8c44cc440ae6f6484b7b5dbd1b0c85aaaa636d"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "7640fd11d975b5c73d9459152a39384de9c6bd14fbd2d62452dcfd9330abc921"
+      "sha256": "3985c17a095fea195fb0fc93b721ec44cdf48060e88cec5e43a2aa9ca9d4bacd"
     }
   }
 }

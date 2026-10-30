@@ -27,21 +27,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-mac.zip",
-          "sha256": "16050d3abce37aa8c23d7d816d086686fcc3ec0b0ea1dc32fcc10fd53da64d15"
+          "sha256": "d18b2a39725a8c9d9845513af0e43784656eddac7818fedf74864661298ed506"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-windows.zip",
-          "sha256": "13f948995865f17fee1347b90a14028a2288bc0594f6f703e4256ee696ba1fdc"
+          "sha256": "6e430a5bb30f5d08ffde58ae5a7134bceaf44a823140dc407161feb44d3c3762"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-linux.zip",
-          "sha256": "2f371e701415023b34fe26aeccda52afad41b11b0b4a52e9605f1dd92fa28cd3"
+          "sha256": "4625084e63fbe20e3c460bebbed76190048b24e610640ea1e7ec47fff21bc64e"
         }
       },
       "release": {
-        "version": "0.96",
-        "date": "2026-10-19",
-        "notes": "Steadier, more accurate tuning: held notes stay put when your voice moves, no more pitch glitches flying off, the same result every playback at any mic level, a Vibrato knob that works like Natural Vibrato, and no more DAW slowdowns with lots of plugins open."
+        "version": "0.112",
+        "date": "2026-10-29",
+        "notes": "UI redesign, with a new waterfall view of your voice. Sensitivity is now called Pickup and A4 is now Detune (sessions load unchanged)."
       }
     },
     "funniiKey": {
@@ -146,16 +146,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-mac.zip",
-          "sha256": "135da27b7acfc97a2b1a490c71004e1c4bcf86252a670df5c07cf4a83f3bed3c"
+          "sha256": "a15dfc6b2f29c4409553ac2c110fed4ea7301e7907b12987113ee7b24510bb54"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-windows.zip",
-          "sha256": "b340470f358eeb199acc1a92b8efc83dc3a9bed4b055b5f7fdce226faa97c522"
+          "sha256": "da7a5d4ee9eee5935ab505e75dfcf119016eb381b6d6398c6ac7bad554c08aaf"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-linux.zip",
-          "sha256": "b43c83b14dd5d8b0f41fb8e495cd64ab9cd495c7447730305d52786a72b29a9b"
+          "sha256": "d0121a3d145e9a272c259609d1303ee8c4e5c9270009ded7ad45e9e20ebbd8bd"
         }
+      },
+      "release": {
+        "version": "0.81",
+        "date": "2026-10-29",
+        "notes": "UI redesign. New: Send, Duck, Lo/Hi Cut on the echoes, Swing, and per-echo Stereo and Pitch. Heads-up: in Stereo mode a positive Offset now leans the echoes right, so older sessions using it come back mirrored."
       }
     },
     "funniiEqualizer": {
@@ -636,15 +641,15 @@
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "8877ad9e23411d070964b5827a8ffa24da77317b5a32742c1d54b84a4dc8ace5"
+      "sha256": "f5cd66402cdf50d60c62cdc21569ffb720a5354b8414b7f2efe8c771cc76649f"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "c786e8b05ac4f36007e54ae672cdcfe01e71fb9f02b48440ba16b6c62ff0b08f"
+      "sha256": "7e693604ac26d6c0ba1a60d2232e998fba5826c357fa2d95f52c6c79e6c470d4"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "4fee137a9c85123b4cf9a2d6380e6a48740d8675c5751e78b4258b7ae9b539b2"
+      "sha256": "a4c31cafe018091cb98a224b031d0bb4a1074bcc0b9a0bc88fe8df8e88be5a49"
     }
   }
 }

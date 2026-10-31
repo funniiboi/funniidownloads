@@ -235,16 +235,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-mac.zip",
-          "sha256": "d21ffddb19c11cf015382f510356f3fcf0524b2891b53b67cfca147563ac21aa"
+          "sha256": "6b3298a92f28ab33e3fc94735a9a3acff29ad3f87d45f86d3f7dc5f2f9e8ca69"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-windows.zip",
-          "sha256": "7a3fe67e361c31e080f87eaadd6165091c7002f4f2a2ae8fc583287dcfadd677"
+          "sha256": "564f27e3582085b2a7391aa3964cb15aadffbd5f6de0aee38250f54aaf3f3148"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-linux.zip",
-          "sha256": "e9cb00ba2baee7f332427d4edc05b7424a98424c17ec326e82dca866d0d899db"
+          "sha256": "005365f2db87b31663d524ba657a4c9d02a1fffe562b6d67a15a0fb06709e617"
         }
+      },
+      "release": {
+        "version": "0.103",
+        "date": "2026-10-31",
+        "notes": "UI redesign with syllable-by-syllable rhythm tapping, timed playback, Undo, timing adjustment, and Clear. Improved rhyming for plurals and dropped-g words, better recognition of short and unfamiliar words, and expanded vocabulary covering brands, cars, firearms, and slang. More accurate syllable counts with manual adjustments. Added a Saved Words list, text scaling, and improved definition wrapping."
       }
     },
     "funniiClipper": {
@@ -649,15 +654,15 @@
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "a8d3de6044113061cfc9f8a655e5c6ed18f9dcd3d0f3726e1c67a78109b9552d"
+      "sha256": "2d2911c5d0987049db2ee8edf289e22cc051e3d2f98a69b7390f10572b4f97bd"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "f18ffe6fd97109fa75b73ff18c8c44cc440ae6f6484b7b5dbd1b0c85aaaa636d"
+      "sha256": "1b611425f937a0900dc0b85aa7a788d882146468a717c1ed826a147df061007c"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "3985c17a095fea195fb0fc93b721ec44cdf48060e88cec5e43a2aa9ca9d4bacd"
+      "sha256": "6f39dcc734b6ca20914a20fbc02ce7a85dcebe0d7de558d3ac9999c36037c994"
     }
   }
 }

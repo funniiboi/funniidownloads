@@ -480,6 +480,49 @@
         }
       }
     },
+    "funniiVolume": {
+      "displayName": "funniiVolume",
+      "description": "Gain Utility with a LUFS Loudness Meter",
+      "category": "Release",
+      "formats": {
+        "mac": [
+          "vst3",
+          "au",
+          "clap",
+          "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
+        ]
+      },
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVolume.png",
+      "content": {
+        "mac": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVolume-mac.zip",
+          "sha256": "293622078649f37e1c7dcbcc78fff2edd37e51bbcf7b80deace921961fe119d2"
+        },
+        "windows": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVolume-windows.zip",
+          "sha256": "2113b37c039de54827d09226599e58d41473212aadc9daee33bcf529f0817028"
+        },
+        "linux": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVolume-linux.zip",
+          "sha256": "f95d37cd96418cfe6b1f9d67b0334241649d588a7aea868c92ccb5676232d7e5"
+        }
+      },
+      "release": {
+        "version": "0.65",
+        "date": "2026-11-06",
+        "notes": "Back, fully redesigned: see what Spotify, YouTube, Apple Music and more will do to your song's volume, drag it where you want it, and hear it the way they'll play it with Preview. Plus Lock, a true-peak warning and a mono check."
+      }
+    },
     "funniiFunction": {
       "displayName": "funniiFunction",
       "description": "Synth Driven by Math Formulas",
@@ -654,15 +697,15 @@
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "81ccb0691761c7a1897849b0f9abfc5e970e83dff8f30e1fe33aeca3c156bcf7"
+      "sha256": "281ea94c569ac8091e3831a627093ca236dd0b275d83116b690b863a5227e648"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "3bc2283bcf9e9fb8ec7c87783eb6ca8e02b300b34a5b27cc5927983e56ab716d"
+      "sha256": "aacfaf13cd5764dccd13de5b254d99e336b10ed5da84b1c0acf6d2ba81b14e95"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "faccf13d06815d75cfa42fa23e6fe9a44d09d7321ba588aa4a9e022181ac49f0"
+      "sha256": "88c4971291c3b8291f3283e9c316f798063e3c2193bd04c66d845b3ba108b517"
     }
   }
 }

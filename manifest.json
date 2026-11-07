@@ -468,16 +468,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-mac.zip",
-          "sha256": "04b7692ca8f10fbfd54a2487315befa1c80f10d32d382e5ef6abbc97b9202ef4"
+          "sha256": "100a00a888199d5687963596f7483564ec8f0868e45ccf465b7dfcece224de3e"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-windows.zip",
-          "sha256": "154721cc1de86261af59720b70eb51c3984b12d5e8f026fc3b7f595708fc4d31"
+          "sha256": "69f01f1db05a7939d09724c1aedfb43d7404c7e249a3e357f34b3fa69f5ec36f"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-linux.zip",
-          "sha256": "45d9d96de23131c3c68becf60b4339a558b7e6cc5d0f149e4968e84d9163c519"
+          "sha256": "7148f4b37ad60ac388495e6663dc92281e55a7b30b93341b968cb7daeae4ace8"
         }
+      },
+      "release": {
+        "version": "0.59",
+        "date": "2026-11-07",
+        "notes": "UI redesign + new Modern mode: turn the circle to drop the pitch while the beat stays in time. Classic: drag the ramps right on screen, separate Stop/Start curves, instant stops and starts. The tape now catches back up with no skip, and Mix no longer phases."
       }
     },
     "funniiVolume": {
@@ -697,15 +702,15 @@
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "281ea94c569ac8091e3831a627093ca236dd0b275d83116b690b863a5227e648"
+      "sha256": "164fdcc8179fe62568b3fd38c2ccef4f62c73c44ba9aadef3feab96a44caafb5"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "aacfaf13cd5764dccd13de5b254d99e336b10ed5da84b1c0acf6d2ba81b14e95"
+      "sha256": "8cde39b20e18b792e16fd0eb6cee93f62491a6baf68831c479e318a20edfea84"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "88c4971291c3b8291f3283e9c316f798063e3c2193bd04c66d845b3ba108b517"
+      "sha256": "dff5f1e1609b37c289fdae77ef998404a95d2835b840b181ec4e2d2318cc49ac"
     }
   }
 }

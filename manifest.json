@@ -651,6 +651,49 @@
       ],
       "primaryBundle": "funniiMetranomeFX"
     },
+    "funniiWeb": {
+      "displayName": "funniiWeb",
+      "description": "Web Recorder and Browser Sampler",
+      "category": "Release",
+      "formats": {
+        "mac": [
+          "vst3",
+          "au",
+          "clap",
+          "standalone"
+        ],
+        "windows": [
+          "vst3",
+          "clap",
+          "standalone"
+        ],
+        "linux": [
+          "vst3",
+          "clap",
+          "standalone"
+        ]
+      },
+      "preview": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWeb.png",
+      "content": {
+        "mac": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWeb-mac.zip",
+          "sha256": "2ccdc9b284b92deb76c9ecaf828fd0feef00f1850044a071b4f40d9a746ec12c"
+        },
+        "windows": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWeb-windows.zip",
+          "sha256": "87f61f493592ab31c40eef36dd9d81b685e2355962d7b42f8acb1455781710aa"
+        },
+        "linux": {
+          "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWeb-linux.zip",
+          "sha256": "9f1a1fb9216c4685f7e1a43cdfe895ce7684f5fb7029a1ca43382469e65bc1fe"
+        }
+      },
+      "release": {
+        "version": "0.56",
+        "date": "2026-11-08",
+        "notes": "New plugin: funniiWeb, a Web Recorder and Browser Sampler. Open any page inside the plugin and record its audio straight into your DAW, with Auto-record. Mac, Windows and Linux."
+      }
+    },
     "funniiPitch": {
       "displayName": "funniiPitch",
       "description": "Note-by-Note Pitch and Timing Editor (Effect and Instrument)",
@@ -702,15 +745,15 @@
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "164fdcc8179fe62568b3fd38c2ccef4f62c73c44ba9aadef3feab96a44caafb5"
+      "sha256": "beb0b649654bd305a6fc0526e5f86080b5985a98e4bf0896d5c1efe1ba6d2e16"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "8cde39b20e18b792e16fd0eb6cee93f62491a6baf68831c479e318a20edfea84"
+      "sha256": "80d32fdab68ec95ac168521fe713c9dfa675ec3a2911900bf773716f3a345b6c"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "dff5f1e1609b37c289fdae77ef998404a95d2835b840b181ec4e2d2318cc49ac"
+      "sha256": "6734bb2c627f31ab130462228a04bbb9741f98473d59800fa6a6564d20bc3a25"
     }
   }
 }

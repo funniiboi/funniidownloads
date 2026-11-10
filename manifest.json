@@ -27,22 +27,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-mac.zip",
-          "sha256": "99b0c98a55e653fe04e2af22ba24ea3db3e1da65e238b8f56ffa688272fdea97"
+          "sha256": "14349e085ef907f80f3bd6c3857c3fc08a987b51d42c8f7251990e3a0ada3506"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-windows.zip",
-          "sha256": "a591a08cc5d11c478c616901965017fa3236baf5d1521e5fda3877a082964b4c"
+          "sha256": "360fa8849ece8c0950073b20db3a76875b44f2a3db2fffef117e19884ca48dab"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiTune-linux.zip",
-          "sha256": "68e72712ff6f7d535be9dacdc5950db3b809ba3c35e3c97d0fd65c88c3fd0ab5"
+          "sha256": "861b046d661696299e593d5bc42411416d8e78ca7b2ab1cb7712ddda26bb86e2"
         }
       },
       "release": {
-        "version": "0.114",
-        "date": "2026-10-30",
-        "notes": "",
-        "silent": true
+        "version": "0.116",
+        "date": "2026-11-09",
+        "notes": "Fixed a crash in FL Studio on Windows when deleting or replacing the plugin"
       }
     },
     "funniiKey": {
@@ -71,22 +70,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-mac.zip",
-          "sha256": "b0a306cf4ffaad1ce3d336d85ad442b78a5d4c2e575151f9b668b0e79e4448ed"
+          "sha256": "7a77875bfcfd159eef6cdcb5209170628180828da178dbd9516c59e5c936a740"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-windows.zip",
-          "sha256": "f8c657fc61b9539e747e44d43348b690eca86d6df472243ab6baedcb902523b4"
+          "sha256": "f80150039a1f1070412e0cfa9ca96c9e50e8fdfbe736f91997a38fbe3b0ea6e5"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiKey-linux.zip",
-          "sha256": "1e17f8a0a22e4a80e2ea996e2a81141e3ca5cabdb6f87f0d8729035d8cc1b683"
+          "sha256": "059e091c4be82807cdd0cfac41fe3fefdd6841626a01b6dc81c3c5d48d817f24"
         }
       },
       "release": {
-        "version": "0.71",
-        "date": "2026-10-30",
-        "notes": "",
-        "silent": true
+        "version": "0.73",
+        "date": "2026-11-09",
+        "notes": "Fixed a crash in FL Studio on Windows when deleting or replacing the plugin"
       }
     },
     "funniiGlue": {
@@ -153,22 +151,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-mac.zip",
-          "sha256": "5fc432ad1a6a88a77fd3d809c3c816f3fb09069d4f05e1d403e15fe9c7da1758"
+          "sha256": "53e8f456d032b189963efeeea3aa861a55f071d86e45d555545e9b86e0807cb0"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-windows.zip",
-          "sha256": "540313c42c6768128c51017697ccb76412edb586d1124f2265b6dc25e306c54f"
+          "sha256": "748862adf679fb286be7d68fca5c393c38c8a6b991cd749618cedeb783d4ac68"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiDelay-linux.zip",
-          "sha256": "4ee79be854cbc064e36545ce0e6d53fdeedcc89068fbf243354b1a80b95824b8"
+          "sha256": "181e9a712d8d7cee92c8822eabe770794a5f8742196632aecbcf4c96b5514b38"
         }
       },
       "release": {
-        "version": "0.83",
-        "date": "2026-10-30",
-        "notes": "",
-        "silent": true
+        "version": "0.85",
+        "date": "2026-11-09",
+        "notes": "Fixed a crash in FL Studio on Windows when deleting or replacing the plugin"
       }
     },
     "funniiEqualizer": {
@@ -235,21 +232,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-mac.zip",
-          "sha256": "257869504d03853e00b5ebfc1d4af3f1a1ce55eaba6d3dc5837f080b1492e01e"
+          "sha256": "fa06c2b97db681226fd53974d65e45995c503e1633cb4dfa0e465f23687b0aef"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-windows.zip",
-          "sha256": "93c66a46142675a959926c632bbda712d34817e670810ced24f4b838bd70ac3e"
+          "sha256": "1e6792bf9e43a1ae6defa80f7c00566480dae52d4ad42568650bc40f3c1cf053"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWrite-linux.zip",
-          "sha256": "9c9738180bede3690853cf14217e8d720cab5837feb61a3293504f61868ae545"
+          "sha256": "2eff11e69c2f02dc1e990e12f1d1bcf2808c137175d6951a9d895c9243ffc462"
         }
       },
       "release": {
-        "version": "0.106",
-        "date": "2026-11-06",
-        "notes": "New Flow editor: the Flow button opens a lane under your lyrics showing one line's words on a beat grid sized to how long you tapped it. Drag a word to retime it, step between lines, and clear a single line. Scheme, Syllables, the counts and text size now sit in a toolbar on top of the lyrics. The rhyme underline and column also update with every keystroke, and Listen no longer crashes if you close the window mid-download."
+        "version": "0.107",
+        "date": "2026-11-09",
+        "notes": "Fixed a crash in FL Studio on Windows when deleting or replacing the plugin"
       }
     },
     "funniiClipper": {
@@ -468,21 +465,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-mac.zip",
-          "sha256": "100a00a888199d5687963596f7483564ec8f0868e45ccf465b7dfcece224de3e"
+          "sha256": "3f0c4355e7fc6200848898c925a2b358e374a6b51b6e8ec5bb5fec214fef5592"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-windows.zip",
-          "sha256": "69f01f1db05a7939d09724c1aedfb43d7404c7e249a3e357f34b3fa69f5ec36f"
+          "sha256": "8166e38cd5ea1ba3a8ba9650c2eec84a2e24b588ddbad87dd651468cdcb830ff"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiStop-linux.zip",
-          "sha256": "7148f4b37ad60ac388495e6663dc92281e55a7b30b93341b968cb7daeae4ace8"
+          "sha256": "f58db169a421f3bce34c238c0fcfcd705b73ffce6351bd5e996ef03a5c30198e"
         }
       },
       "release": {
-        "version": "0.59",
-        "date": "2026-11-07",
-        "notes": "UI redesign + new Modern mode: turn the circle to drop the pitch while the beat stays in time. Classic: drag the ramps right on screen, separate Stop/Start curves, instant stops and starts. The tape now catches back up with no skip, and Mix no longer phases."
+        "version": "0.60",
+        "date": "2026-11-09",
+        "notes": "Fixed a crash in FL Studio on Windows when deleting or replacing the plugin"
       }
     },
     "funniiVolume": {
@@ -511,21 +508,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVolume-mac.zip",
-          "sha256": "293622078649f37e1c7dcbcc78fff2edd37e51bbcf7b80deace921961fe119d2"
+          "sha256": "4919b3f046716da925cade95e9247f3a69cb21acca787d72e9d8cdacfd66fc60"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVolume-windows.zip",
-          "sha256": "2113b37c039de54827d09226599e58d41473212aadc9daee33bcf529f0817028"
+          "sha256": "0ea21937aab7cb752cb25afe03b8959db1abc94b13d88e2c2713454be5b3fe7e"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiVolume-linux.zip",
-          "sha256": "f95d37cd96418cfe6b1f9d67b0334241649d588a7aea868c92ccb5676232d7e5"
+          "sha256": "8779fada492d3593445764076ed2349389743009621a0e19b8001e8d64f61a75"
         }
       },
       "release": {
-        "version": "0.65",
-        "date": "2026-11-06",
-        "notes": "Back, fully redesigned: see what Spotify, YouTube, Apple Music and more will do to your song's volume, drag it where you want it, and hear it the way they'll play it with Preview. Plus Lock, a true-peak warning and a mono check."
+        "version": "0.66",
+        "date": "2026-11-09",
+        "notes": "Fixed a crash in FL Studio on Windows when deleting or replacing the plugin"
       }
     },
     "funniiFunction": {
@@ -677,21 +674,21 @@
       "content": {
         "mac": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWeb-mac.zip",
-          "sha256": "2ccdc9b284b92deb76c9ecaf828fd0feef00f1850044a071b4f40d9a746ec12c"
+          "sha256": "f9edbdfe755345ce0217476690cb9a2d1fa1f4c0a83c5e0f005441880cabc7e6"
         },
         "windows": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWeb-windows.zip",
-          "sha256": "87f61f493592ab31c40eef36dd9d81b685e2355962d7b42f8acb1455781710aa"
+          "sha256": "fb0ad9105d7a199e3561e7befb9b7614538582535d1a9df8819db78720c869f5"
         },
         "linux": {
           "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/funniiWeb-linux.zip",
-          "sha256": "9f1a1fb9216c4685f7e1a43cdfe895ce7684f5fb7029a1ca43382469e65bc1fe"
+          "sha256": "6f3e9b5d7b539e7ceb0edd57dcf7afaec12c63aacafaf211aa6a8d8e2fef25aa"
         }
       },
       "release": {
-        "version": "0.56",
-        "date": "2026-11-08",
-        "notes": "New plugin: funniiWeb, a Web Recorder and Browser Sampler. Open any page inside the plugin and record its audio straight into your DAW, with Auto-record. Mac, Windows and Linux."
+        "version": "0.57",
+        "date": "2026-11-09",
+        "notes": "Fixed a crash in FL Studio on Windows when deleting or replacing the plugin"
       }
     },
     "funniiPitch": {
@@ -745,15 +742,15 @@
   "downloadAll": {
     "windows": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-windows.zip",
-      "sha256": "beb0b649654bd305a6fc0526e5f86080b5985a98e4bf0896d5c1efe1ba6d2e16"
+      "sha256": "e7985f9c7d1ab89529a71fe444aed35f2e0f3d6ee61e3d5066a5b30bf1a17431"
     },
     "linux": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-linux.zip",
-      "sha256": "80d32fdab68ec95ac168521fe713c9dfa675ec3a2911900bf773716f3a345b6c"
+      "sha256": "77bac7b32d18a748b995258883e4f9f03bf443add2296e818fabc2b4d469d956"
     },
     "mac": {
       "url": "https://github.com/funniiboi/funniidownloads/releases/latest/download/AllPlugins-mac.zip",
-      "sha256": "6734bb2c627f31ab130462228a04bbb9741f98473d59800fa6a6564d20bc3a25"
+      "sha256": "9ff72f50bfb87deb7a0f8764c07920b70cbb3f4abc70fba2ad7dc16f12315af0"
     }
   }
 }
